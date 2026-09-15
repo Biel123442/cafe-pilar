@@ -1,0 +1,5 @@
+codigo,nome,bairro,inauguracao,area_m2,atendentes,baristas,cronometro,termometro,ultima_calibracao,responsavel,abre_semana,fecha_semana
+1,Boa Viagem,Boa Viagem,2019-03-15,148.5,7,3,app,digital,2025-02-10,Ana Célia Bezerra,07:00,22:00
+2,Casa Forte,Casa Forte,2021-08-02,112.0,5,2,app,digital,2025-01-28,João Vitório Lins,07:30,21:00
+3,Espinheiro,Espinheiro,2022-11-20,86.3,4,2,manual,analogico,,Márcia Sá Nóbrega,07:30,20:00
+4,Recife Antigo,Santo Antônio,2023-05-08,95.0,4,1,manual,analogico,2024-06-30,Antônio Régis Paz,08:00,19:00

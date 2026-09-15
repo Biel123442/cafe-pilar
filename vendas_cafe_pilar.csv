@@ -1,0 +1,1224 @@
+id_venda;data_venda;loja;categoria;produto;quantidade;preco_unitario;valor_total;forma_pagamento;canal;tempo_preparo_min;avaliacao_cliente
+100677;31/03/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Débito;Delivery;9,4;4
+100146;02/03/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Crédito;Balcão;2,4;3
+100609;22/03/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;Balcão;10,5;4
+100880;16/03/2025;Boa Viagem ;Salgado;Tapioca;3;15,68;47,04;Pix;App;7,1;5
+100311;17/03/2025;Boa Viagem;Salgado;Pão de queijo;4;7,84;31,36;Débito;Balcão;11,5;5
+101156;11/01/2025;Casa Forte;Bebida gelada;Cold brew;2;15,00;30,00;Pix;Balcão;6,4;5
+100314;08/03/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Balcão;2,9;4
+100057;13/04/2025;Boa Viagem;Salgado;Tapioca;3;15,68;47,04;Pix;Balcão;6,4;4
+100339;19/06/2025;Casa Forte;Bebida gelada;Suco de caju;3;11,00;33,00;Débito;Balcão;4,2;5
+100904;23/06/2025;Boa Viagem;Doce;Cartola;1;19,04;19,04;Dinheiro;Delivery;8,9;4
+100523;19/04/2025;Casa Forte;Salgado;Pão de queijo;3;7,00;21,00;;Balcão;9,4;2
+100456;27/06/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;;Delivery;6,6;4
+100727;12/01/2025;Casa Forte;Bebida gelada;Água de coco;1;8,00;8,00;Débito;Balcão;;3
+100678;25/01/2025;Casa Forte;Doce;Bolo de rolo (fatia);4;16,00;64,00;Débito;Balcão;3,4;4
+100411;28/04/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Crédito;Balcão;9,6;4
+100266;22/02/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Pix;Balcão;8,1;5
+100210;06/05/2025;Casa forte;Bebida gelada;Água de coco;3;8,00;24,00;Pix;Delivery;5,0;5
+101106;21/01/2025;Espinheiro;Bebida quente;Chá artesanal;4;9,00;36,00;Pix;Balcão;6,4;
+101161;29/04/2025;Boa Viagem;Salgado;Pão de queijo;4;7,84;31,36;Pix;Balcão;11,7;4
+100119;24/04/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Pix;Delivery;7,2;4
+100151;12/06/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Débito;Balcão;6,3;4
+100667;30/06/2025;Espinheiro;Bebida quente;Café expresso;3;6,50;19,50;Pix;Balcão;10,7;4
+101087;18/05/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;Balcão;5,9;4
+100842;05/04/2025;Boa Viagem;Bebida gelada;Água de coco;3;8,96;26,88;Crédito;Balcão;6,0;4
+100648;03/05/2025;Espinheiro;Doce;Cartola;2;17,00;34,00;Pix;Balcão;2,1;5
+100263;26/01/2025;Espinheiro;Bebida gelada;Frappê;2;18,00;36,00;Pix;Balcão;7,0;
+100656;04/06/2025;Casa forte;Bebida quente;Latte;2;13,50;27,00;Débito;Delivery;9,9;5
+100557;30/03/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Crédito;Balcão;2,9;
+100616;17/05/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Crédito;Balcão;9,3;4
+100328;26/04/2025;Boa Viagem;Doce;Cookie;2;9,52;19,04;Dinheiro;App;5,8;4
+101180;17/05/2025;Casa Forte;Salgado;Sanduíche natural;2;19,00;38,00;Débito;Balcão;5,4;3
+100592;25/02/2025;Boa Viagem;Bebida quente;Cappuccino;4;13,44;53,76;Crédito;Balcão;7,2;4
+100031;25/06/2025;Recife Antigo;Salgado;Tapioca;2;13,30;26,60;Pix;Balcão;5,1;4
+100243;06/04/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Crédito;Delivery;6,2;5
+101082;17/06/2025;Boa Viagem;Doce;Cookie;3;9,52;28,56;Débito;Delivery;6,7;4
+100713;13/06/2025;boa viagem;Bebida gelada;Frappê;2;20,16;40,32;Crédito;Balcão;7,1;4
+100019;25/04/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Pix;App;1,5;5
+100370;18/05/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Crédito;Delivery;8,0;5
+101145;28/02/2025;Casa Forte;Doce;Brownie;1;12,50;12,50;Débito;Delivery;5,8;4
+100452;09/05/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Dinheiro;Delivery;5,5;4
+100235;26/05/2025;Recife Antigo;Bebida quente;Latte;3;12,82;38,46;Crédito;App;8,9;5
+100769;23/04/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Débito;Balcão;8,3;5
+100881;20/04/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;3,7;
+100439;25/04/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;Balcão;4,6;5
+100896;20/02/2025;Espinheiro;Bebida gelada;Cold brew;2;15,00;30,00;Pix;Balcão;4,2;5
+101177;08/03/2025;Espinheiro;Salgado;Tapioca;1;14,00;14,00;;Delivery;7,1;5
+100709;28/03/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Pix;Balcão;6,2;4
+100180;11/06/2025;Espinheiro;Salgado;Sanduíche natural;2;19,00;38,00;Pix;Balcão;10,4;2
+100123;17/03/2025;Casa Forte;Doce;Cookie;2;8,50;17,00;Pix;App;6,3;3
+100644;23/04/2025;Boa Viagem;Doce;Cartola;2;19,04;38,08;Dinheiro;Delivery;6,3;3
+101056;14/06/2025;Espinheiro;Bebida quente;Café expresso;2;6,50;13,00;Pix;Balcão;5,0;4
+100851;06/02/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Crédito;Balcão;7,6;4
+100357;25/05/2025;Recife Antigo;Salgado;Tapioca;3;13,30;39,90;Débito;Delivery;10,6;5
+101120;01/05/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Débito;Balcão;5,5;4
+100633;09/03/2025;Espinheiro;Bebida quente;Chá artesanal;3;9,00;27,00;Pix;Balcão;6,0;4
+101199;14/05/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Pix;App;6,4;5
+100502;16/06/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Delivery;10,5;
+100856;13/05/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;10,4;5
+100499;04/04/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Pix;Balcão;7,7;4
+100144;28/03/2025;Casa Forte;Doce;Cartola;1;17,00;17,00;Dinheiro;Balcão;4,9;4
+100946;10/05/2025;Recife Antigo;Salgado;Tapioca;2;13,30;26,60;Pix;Balcão;6,2;
+100232;25/06/2025;Casa Forte;Bebida gelada;Cold brew;3;15,00;45,00;Crédito;Delivery;6,1;4
+100546;13/03/2025;Recife Antigo;Bebida quente;Chá artesanal;3;8,55;25,65;Dinheiro;Balcão;8,8;5
+100597;26/04/2025;Casa Forte;Salgado;Coxinha;1;9,50;9,50;Pix;Balcão;11,0;5
+100201;26/06/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Pix;Balcão;12,2;5
+100590;18/06/2025;Recife Antigo;Bebida gelada;Frappê;1;17,10;17,10;Débito;Balcão;6,0;
+100097;17/01/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Pix;Balcão;10,9;3
+100349;18/01/2025;Boa Viagem ;Bebida quente;Latte;4;15,12;60,48;Pix;Balcão;7,2;4
+100715;03/02/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Crédito;Balcão;8,1;5
+100615;13/05/2025;Recife Antigo;Bebida gelada;Água de coco;1;7,60;7,60;Débito;Delivery;7,0;5
+100824;01/06/2025;Recife Antigo;Salgado;Sanduíche natural;3;18,05;54,15;Crédito;App;8,5;4
+100994;17/06/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Balcão;2,4;4
+100632;07/01/2025;Recife Antigo;Bebida gelada;Suco de caju;2;10,45;20,90;Pix;Balcão;7,9;4
+100925;15/02/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Pix;Balcão;7,8;5
+100706;24/05/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;Crédito;Balcão;8,4;3
+100635;20/01/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Dinheiro;Balcão;7,8;3
+100190;19/06/2025;Espinheiro;Salgado;Pão de queijo;1;7,00;7,00;Crédito;Balcão;;5
+100782;24/03/2025;Casa Forte;Bebida gelada;Frappê;1;18,00;18,00;;Balcão;7,9;5
+100918;25/02/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;Débito;Balcão;8,6;4
+100121;28/04/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Pix;Delivery;3,7;5
+100157;30/04/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;;Balcão;7,7;2
+100884;05/02/2025;Boa Viagem;Bebida gelada;Cold brew;3;16,80;50,40;Dinheiro;Balcão;7,4;5
+100953;30/01/2025;Casa Forte;Doce;Bolo de rolo (fatia);1;16,00;16,00;Débito;Balcão;5,8;5
+101079;02/03/2025;Casa Forte;Bebida gelada;Frappê;2;18,00;36,00;Pix;Balcão;6,1;4
+100343;18/04/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Pix;Balcão;6,1;5
+100940;17/02/2025;Casa Forte;Salgado;Sanduíche natural;4;19,00;76,00;Crédito;Balcão;7,9;5
+100850;02/02/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Pix;Balcão;3,3;4
+100636;03/05/2025;Espinheiro;Bebida quente;Chá artesanal;4;9,00;36,00;Pix;Balcão;4,3;
+100107;19/02/2025;Espinheiro;Doce;Bolo de rolo (fatia);4;16,00;64,00;Crédito;App;7,7;2
+100072;04/06/2025;Boa Viagem;Bebida quente;Latte;4;15,12;60,48;Débito;Balcão;6,3;3
+100898;03/02/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Débito;Balcão;6,1;4
+101108;30/06/2025;Espinheiro;Doce;Bolo de rolo (fatia);1;16,00;16,00;Pix;Balcão;6,9;5
+100596;08/05/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Pix;Delivery;9,3;4
+100061;27/03/2025;Casa Forte;Bebida gelada;Suco de caju;4;11,00;44,00;Crédito;Delivery;7,3;5
+100380;11/04/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Pix;Balcão;9,9;4
+100807;01/02/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Débito;Balcão;4,3;3
+100987;10/01/2025;Boa Viagem;Salgado;Tapioca;1;15,68;15,68;Crédito;Balcão;10,5;4
+100954;20/06/2025;Recife Antigo;Bebida quente;Chá artesanal;4;8,55;34,20;Crédito;Balcão;6,2;4
+101136;25/03/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Crédito;Balcão;4,3;3
+100058;26/01/2025;Casa Forte;Bebida gelada;Suco de caju;1;11,00;11,00;Débito;Delivery;6,5;3
+100905;29/04/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Dinheiro;Balcão;6,3;4
+100724;19/01/2025;Espinheiro;Salgado;Tapioca;2;14,00;28,00;Dinheiro;Balcão;11,8;4
+101064;28/02/2025;Recife Antigo;Bebida gelada;Suco de caju;1;10,45;10,45;Pix;Balcão;5,0;3
+100829;16/02/2025;Espinheiro;Bebida quente;Chá artesanal;3;9,00;27,00;Dinheiro;App;7,6;4
+100227;12/04/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Dinheiro;Delivery;9,6;4
+101014;03/03/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Crédito;Balcão;11,2;3
+100886;13/03/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Débito;App;9,1;5
+100173;19/06/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Pix;App;6,0;4
+101175;17/05/2025;Boa Viagem;Salgado;Tapioca;1;15,68;15,68;Pix;Balcão;5,5;
+100416;26/01/2025;Espinheiro;Doce;Cookie;3;8,50;25,50;Crédito;Delivery;6,1;4
+100150;31/05/2025;Casa Forte;Doce;Cartola;3;17,00;51,00;Crédito;Balcão;8,2;5
+100407;01/06/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Pix;App;7,2;4
+100550;27/03/2025;Casa Forte;Doce;Cookie;1;8,50;8,50;Pix;Balcão;1,8;5
+100554;09/01/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Crédito;Delivery;7,4;
+101088;29/03/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Pix;Balcão;4,0;3
+100085;17/01/2025;Casa Forte;Salgado;Sanduíche natural;2;19,00;38,00;Pix;Delivery;6,4;
+100143;14/04/2025;Boa Viagem;Bebida gelada;Frappê;3;20,16;60,48;Pix;Balcão;4,4;5
+100542;01/06/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Débito;App;6,7;4
+101011;19/04/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Crédito;Balcão;5,3;4
+100700;14/02/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Pix;Balcão;6,1;4
+100386;11/05/2025;Casa Forte;Salgado;Tapioca;2;14,00;28,00;Débito;Balcão;13,7;4
+100792;27/02/2025;Casa Forte;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;4,1;4
+100160;20/01/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Crédito;Balcão;9,2;4
+100103;25/06/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Pix;Delivery;2,1;5
+100362;22/01/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Crédito;Balcão;3,0;4
+100288;05/04/2025;Casa Forte;Bebida gelada;Cold brew;;15,00;15,00;Pix;Balcão;5,0;4
+101151;08/06/2025;Casa forte;Bebida quente;Chá artesanal;2;9,00;18,00;Crédito;Balcão;2,6;4
+100239;20/01/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Balcão;8,0;3
+100468;27/01/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Débito;Balcão;7,1;4
+101190;23/03/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Delivery;5,0;3
+100879;16/04/2025;Espinheiro;Bebida gelada;Água de coco;1;8,00;8,00;Pix;Balcão;6,9;4
+101067;04/05/2025;Espinheiro;Bebida quente;Cappuccino;3;12,00;36,00;Pix;Delivery;5,8;3
+100464;15/04/2025;Boa Viagem;Salgado;Tapioca;4;15,68;62,72;Dinheiro;Balcão;8,6;
+100280;09/01/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;Pix;App;8,8;4
+101169;18/01/2025;Casa Forte;Salgado;Sanduíche natural;3;19,00;57,00;Pix;Balcão;5,9;5
+100429;25/05/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;6,0;4
+101008;12/05/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Débito;Balcão;6,2;3
+100321;29/03/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Débito;Balcão;7,9;
+100003;07/05/2025;Boa Viagem;Doce;Cartola;2;19,04;38,08;Débito;Balcão;9,9;5
+101149;11/06/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Débito;Balcão;5,0;4
+100920;18/01/2025;Boa Viagem;Doce;Bolo de rolo (fatia);4;17,92;71,68;Dinheiro;App;4,1;5
+100095;25/04/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Dinheiro;Balcão;7,1;4
+101020;11/06/2025;Casa Forte;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;3,8;5
+100703;08/06/2025;Boa Viagem;Doce;Cartola;3;19,04;57,12;Débito;Delivery;3,4;4
+100957;05/04/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Pix;Balcão;9,4;4
+100710;29/06/2025;Boa Viagem;Bebida gelada;Água de coco;4;8,96;35,84;Crédito;Balcão;7,9;5
+100168;27/02/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Débito;Balcão;12,6;5
+101157;01/01/2025;Boa Viagem;Salgado;Pão de queijo;2;7,84;15,68;Débito;Balcão;6,8;4
+100303;04/04/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;App;7,2;5
+100164;11/04/2025;Casa Forte;Bebida gelada;Frappê;3;18,00;54,00;Crédito;Balcão;9,3;5
+100768;20/01/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Débito;Balcão;6,3;4
+100147;05/04/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;;Balcão;7,7;5
+100355;05/04/2025;Boa Viagem;Bebida gelada;Suco de caju;4;12,32;49,28;Crédito;Balcão;9,1;4
+101009;25/03/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Crédito;Delivery;4,0;4
+100916;13/01/2025;Boa Viagem;Salgado;Coxinha;3;10,64;31,92;Crédito;Balcão;8,1;5
+100073;12/02/2025;Recife Antigo;Bebida quente;Café expresso;3;6,17;18,51;Crédito;Balcão;7,3;4
+100815;12/06/2025;Espinheiro;Doce;Cartola;2;17,00;34,00;Pix;Balcão;10,4;3
+100391;23/01/2025;Recife Antigo;Salgado;Pão de queijo;1;6,65;6,65;Dinheiro;Balcão;9,9;5
+100475;25/02/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Pix;App;4,3;
+100378;11/03/2025;Boa Viagem;Salgado;Pão de queijo;;7,84;7,84;Pix;App;10,0;4
+100137;29/03/2025;Casa Forte;Bebida gelada;Cold brew;4;15,00;60,00;Débito;Balcão;8,2;
+100198;05/02/2025;Recife Antigo;Salgado;Tapioca;1;13,30;13,30;Dinheiro;Balcão;5,4;5
+100726;15/02/2025;Recife Antigo;Doce;Cartola;1;16,15;16,15;Crédito;Delivery;5,4;5
+100650;15/03/2025;Espinheiro;Bebida gelada;Frappê;3;18,00;54,00;Dinheiro;Balcão;9,0;3
+100091;07/05/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Pix;App;6,4;5
+100681;06/02/2025;Recife Antigo;Bebida gelada;Cold brew;1;14,25;14,25;Débito;Balcão;9,1;5
+100951;15/02/2025;Espinheiro;Bebida gelada;Cold brew;1;15,00;15,00;Pix;App;5,3;
+100376;19/06/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Pix;Balcão;7,8;4
+100287;09/03/2025;Espinheiro;Salgado;Pão de queijo;1;7,00;7,00;Crédito;Delivery;9,9;4
+100941;03/06/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Pix;Delivery;5,7;5
+100861;13/05/2025;boa viagem;Doce;Brownie;3;14,00;42,00;Pix;Balcão;5,0;
+100293;19/01/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Dinheiro;Delivery;0,0;5
+100249;19/03/2025;BOA VIAGEM;Doce;Cartola;2;19,04;38,08;Pix;Balcão;6,3;4
+100760;10/05/2025;Boa Viagem;Doce;Brownie;1;14,00;14,00;Pix;Delivery;7,4;4
+100115;05/06/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Pix;Balcão;8,1;5
+100697;18/04/2025;Recife Antigo;Doce;Bolo de rolo (fatia);1;15,20;15,20;Crédito;Balcão;4,7;4
+100969;08/02/2025;Boa Viagem;Doce;Bolo de rolo (fatia);1;17,92;17,92;Crédito;Balcão;7,1;5
+100857;08/06/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Débito;Balcão;9,8;4
+100873;10/03/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Crédito;Balcão;6,2;4
+101155;12/01/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Crédito;Balcão;9,9;3
+101030;12/04/2025;Boa Viagem;Bebida quente;Cappuccino;4;13,44;53,76;Pix;Balcão;9,4;4
+100027;09/01/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Pix;Delivery;5,7;4
+100469;03/04/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Pix;Balcão;5,0;5
+100527;30/06/2025;Casa Forte;Doce;Cartola;1;17,00;17,00;Débito;Delivery;7,5;4
+100624;27/06/2025;Casa Forte;Salgado;Coxinha;4;9,50;38,00;Crédito;Balcão;12,2;5
+100431;20/05/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Débito;Balcão;6,0;5
+100574;04/06/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Crédito;Delivery;5,4;5
+101130;30/06/2025;Recife Antigo;Bebida gelada;Cold brew;4;14,25;57,00;Pix;Balcão;5,7;4
+100238;04/01/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Pix;Balcão;5,3;3
+101083;02/06/2025;Espinheiro;Salgado;Tapioca;4;14,00;56,00;Débito;App;11,9;4
+100472;22/01/2025;Espinheiro;Salgado;Sanduíche natural;3;19,00;57,00;Débito;Balcão;7,5;
+101051;24/01/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;Balcão;4,0;5
+100131;17/06/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Pix;Balcão;6,6;3
+101186;14/03/2025;Espinheiro;Salgado;Sanduíche natural;2;19,00;38,00;Dinheiro;Balcão;4,7;4
+100330;14/05/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Pix;Balcão;5,6;5
+101018;08/01/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;Balcão;4,9;4
+100563;26/04/2025;Espinheiro;Bebida quente;Cappuccino;3;12,00;36,00;Pix;Balcão;4,2;4
+100498;07/03/2025;Boa Viagem;Bebida quente;Cappuccino;3;13,44;40,32;Crédito;Balcão;5,7;5
+101011;19/04/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Crédito;Balcão;5,3;4
+100877;28/02/2025;Recife Antigo;Bebida gelada;Cold brew;3;14,25;42,75;Pix;Balcão;4,3;5
+100746;02/03/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Débito;Delivery;2,4;3
+100783;20/04/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Débito;Delivery;1,5;4
+101167;08/04/2025;Recife Antigo;Doce;Cartola;2;16,15;32,30;Débito;Balcão;5,8;5
+101164;27/01/2025;Casa Forte;Bebida quente;Café expresso;3;6,50;19,50;Crédito;Delivery;10,0;4
+100721;20/03/2025;Boa Viagem;Salgado;Coxinha;1;10,64;10,64;Débito;Delivery;9,9;4
+100197;08/06/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Crédito;Balcão;7,7;4
+100317;04/05/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Pix;Balcão;6,9;
+100565;02/05/2025;Casa Forte;Salgado;Coxinha;1;9,50;9,50;Crédito;Balcão;10,8;4
+100779;05/06/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Débito;App;8,8;5
+100352;13/04/2025;Casa Forte;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Delivery;5,2;3
+101034;17/03/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Crédito;Delivery;6,0;4
+101071;21/04/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Pix;Delivery;13,5;
+101022;29/06/2025;Casa Forte;Bebida gelada;Suco de caju;3;11,00;33,00;Débito;App;6,6;5
+100216;25/01/2025;Casa Forte;Bebida gelada;Água de coco;;8,00;24,00;Pix;Balcão;5,7;3
+100585;25/04/2025;Boa Viagem;Salgado;Tapioca;4;15,68;62,72;Pix;Balcão;9,6;4
+101002;24/01/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Débito;Balcão;6,9;5
+100854;08/02/2025;Casa Forte;Salgado;Tapioca;2;14,00;28,00;Débito;Balcão;7,2;5
+100540;29/06/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Crédito;Delivery;10,0;4
+100674;19/04/2025;Boa Viagem ;Bebida quente;Café expresso;1;7,28;7,28;Pix;Delivery;7,5;5
+100617;04/03/2025;Boa Viagem;Doce;Cookie;2;9,52;19,04;Crédito;Delivery;5,9;3
+100787;27/02/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Pix;Balcão;7,8;3
+100730;26/02/2025;Espinheiro;Doce;Cartola;4;17,00;68,00;Crédito;App;6,0;4
+100673;08/05/2025;Casa Forte;Salgado;Tapioca;3;14,00;42,00;;Delivery;8,3;
+100193;31/05/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Crédito;Balcão;8,5;5
+100065;11/04/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Crédito;Balcão;8,2;5
+100683;23/03/2025;Recife Antigo;Salgado;Pão de queijo;4;6,65;26,60;Débito;Delivery;9,4;4
+100175;09/01/2025;Recife Antigo;Salgado;Tapioca;2;13,30;26,60;Crédito;Balcão;7,6;3
+100999;21/02/2025;Boa Viagem;Doce;Brownie;2;14,00;28,00;Pix;App;5,5;4
+100080;01/05/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Pix;App;6,7;4
+101121;21/01/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Pix;Balcão;7,6;5
+100742;06/06/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;9,0;4
+100046;12/03/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;6,9;4
+100594;02/01/2025;Boa Viagem;Bebida quente;Café expresso;3;7,28;21,84;Pix;Balcão;7,6;5
+100935;07/02/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Dinheiro;Balcão;5,6;5
+100474;20/02/2025;Espinheiro;Doce;Cookie;1;8,50;8,50;Pix;Balcão;5,6;
+100083;31/01/2025;Boa Viagem;Salgado;Coxinha;1;10,64;10,64;Débito;Delivery;7,7;5
+101100;02/01/2025;Espinheiro;Salgado;Sanduíche natural;2;19,00;38,00;Débito;Balcão;7,8;
+100888;30/01/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Dinheiro;Balcão;7,5;3
+100819;19/02/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;Balcão;10,7;4
+100671;14/04/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Débito;Delivery;6,6;
+100389;04/06/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;3,5;4
+100526;23/06/2025;Casa Forte;Doce;Cookie;1;8,50;8,50;Pix;Delivery;1,5;5
+100004;18/01/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Pix;Balcão;4,5;5
+100051;02/01/2025;Recife Antigo;Doce;Brownie;2;11,88;23,76;Dinheiro;App;5,6;5
+100560;16/01/2025;Boa Viagem;Salgado;Pão de queijo;4;7,84;31,36;Débito;Balcão;8,6;5
+100837;28/06/2025;Casa Forte;Salgado;Sanduíche natural;3;19,00;57,00;Pix;Delivery;6,1;5
+100984;28/01/2025;Casa forte;Salgado;Pão de queijo;2;7,00;14,00;Crédito;Balcão;9,8;5
+100686;18/03/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Pix;Balcão;5,9;5
+100126;01/03/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Crédito;Delivery;3,5;4
+100448;11/01/2025;Espinheiro;Bebida quente;Cappuccino;4;12,00;48,00;Dinheiro;Delivery;8,7;
+100139;16/01/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Débito;App;9,7;4
+100001;21/03/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Débito;Delivery;4,8;4
+100081;15/03/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Crédito;App;8,5;3
+100949;03/03/2025;boa viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;5,2;5
+100269;04/01/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Dinheiro;Balcão;3,5;4
+101099;31/01/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Dinheiro;Balcão;6,4;5
+100290;01/06/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Débito;Balcão;6,6;5
+100162;11/02/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Pix;Delivery;9,1;5
+100528;20/05/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Débito;Balcão;8,6;4
+100255;16/05/2025;Espinheiro;Bebida quente;Chá artesanal;4;9,00;36,00;Débito;Balcão;4,8;2
+100169;22/06/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;Delivery;6,1;5
+100506;27/02/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;7,4;4
+101105;21/05/2025;Espinheiro;Salgado;Tapioca;2;14,00;28,00;Crédito;Balcão;5,7;3
+101118;19/02/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Crédito;Delivery;11,0;4
+101007;28/02/2025;Boa Viagem;Salgado;Tapioca;4;15,68;62,72;Pix;Balcão;6,1;4
+100350;22/04/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;6,4;5
+100324;03/06/2025;Espinheiro;Salgado;Tapioca;2;14,00;28,00;Débito;Delivery;8,2;5
+100514;02/03/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Delivery;5,7;4
+100221;30/03/2025;Recife Antigo;Salgado;Tapioca;;13,30;53,20;Crédito;Delivery;9,3;5
+100099;24/06/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Crédito;Balcão;6,1;5
+100638;21/05/2025;Casa Forte;Salgado;Pão de queijo;3;7,00;21,00;Pix;Balcão;10,0;3
+100785;07/03/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;Delivery;7,5;4
+100323;07/04/2025;Casa Forte;Bebida gelada;Água de coco;3;8,00;24,00;Dinheiro;App;8,3;4
+101187;29/06/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Crédito;Balcão;6,0;4
+100132;16/04/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Débito;Balcão;8,7;5
+100937;23/01/2025;Espinheiro;Bebida quente;Chá artesanal;4;9,00;36,00;Pix;Balcão;9,1;4
+100687;23/06/2025;Recife Antigo;Doce;Bolo de rolo (fatia);1;15,20;15,20;Crédito;Balcão;7,5;4
+100007;23/05/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Crédito;Balcão;3,9;5
+100206;25/01/2025;Espinheiro;Salgado;Pão de queijo;3;7,00;21,00;Crédito;App;10,6;3
+101163;31/01/2025;Casa forte;Doce;Brownie;3;12,50;37,50;Pix;Balcão;6,4;5
+101125;11/04/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Débito;App;0,0;5
+100204;03/01/2025;Espinheiro;Bebida gelada;Cold brew;2;15,00;30,00;Pix;Balcão;9,5;4
+101096;09/02/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Débito;Balcão;3,5;4
+100522;28/01/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Pix;Balcão;12,5;5
+100835;13/04/2025;Recife Antigo;Bebida quente;Cappuccino;4;11,40;45,60;Débito;Delivery;8,2;3
+101085;16/05/2025;Espinheiro;Salgado;Tapioca;1;14,00;14,00;;Delivery;9,5;4
+100028;28/01/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Dinheiro;Balcão;8,4;4
+101093;16/02/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Pix;Balcão;7,8;4
+100716;12/04/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Débito;Balcão;10,0;5
+100720;04/04/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;;Balcão;8,6;
+100189;17/02/2025;Recife Antigo;Salgado;Coxinha;2;9,03;18,06;Crédito;Delivery;8,4;5
+100108;18/01/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Pix;Balcão;3,3;3
+101188;25/01/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Crédito;Delivery;5,2;5
+100847;04/05/2025;Casa Forte;Bebida gelada;Frappê;3;18,00;54,00;Pix;App;3,8;
+101128;29/04/2025;Boa Viagem;Bebida gelada;Cold brew;4;16,80;67,20;Crédito;Balcão;5,8;
+100488;14/04/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Pix;Balcão;9,0;5
+100022;25/06/2025;Casa Forte;Bebida gelada;Frappê;2;18,00;36,00;Crédito;Balcão;6,5;3
+100870;15/05/2025;Casa Forte;Doce;Cartola;3;17,00;51,00;Dinheiro;Balcão;7,5;4
+100304;05/06/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Crédito;Balcão;4,7;5
+101111;18/03/2025;BOA VIAGEM;Doce;Cookie;4;9,52;38,08;Débito;Balcão;5,5;4
+100971;06/01/2025;Recife Antigo;Bebida gelada;Cold brew;2;14,25;28,50;Débito;Balcão;7,8;5
+101013;22/06/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Crédito;Balcão;4,2;5
+100093;10/03/2025;Recife Antigo;Doce;Cartola;1;16,15;16,15;Pix;Balcão;6,9;4
+100552;02/02/2025;Casa Forte;Doce;Cartola;1;17,00;17,00;Débito;Balcão;3,4;5
+100224;22/02/2025;Casa Forte;Salgado;Coxinha;2;9,50;19,00;Pix;Balcão;11,3;3
+100890;03/03/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Débito;Balcão;9,9;4
+100555;12/02/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Débito;Balcão;7,8;4
+100682;04/01/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;2,9;4
+100610;11/04/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Pix;Balcão;6,7;5
+100521;09/03/2025;Espinheiro;Bebida gelada;Suco de caju;1;11,00;11,00;Crédito;Delivery;6,9;5
+100440;04/06/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Crédito;Delivery;7,7;5
+100450;08/01/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;6,1;3
+100377;21/03/2025;Espinheiro;Bebida quente;Cappuccino;3;12,00;36,00;Débito;Balcão;5,5;3
+100381;19/06/2025;Espinheiro;Bebida gelada;Frappê;4;18,00;72,00;;Balcão;4,2;5
+100736;07/02/2025;Recife Antigo;Salgado;Sanduíche natural;3;18,05;54,15;Débito;Balcão;8,3;4
+100628;12/04/2025;Espinheiro;Bebida gelada;Água de coco;1;8,00;8,00;;Balcão;7,3;4
+100178;11/06/2025;Espinheiro;Salgado;Sanduíche natural;3;19,00;57,00;Crédito;Delivery;7,1;3
+100993;08/02/2025;Recife Antigo;Salgado;Tapioca;3;13,30;39,90;Dinheiro;Balcão;9,5;5
+100070;08/02/2025;Boa Viagem;Salgado;Sanduíche natural;2;21,28;42,56;Pix;Balcão;9,9;3
+100955;10/06/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Crédito;Balcão;8,9;5
+100833;03/05/2025;Boa Viagem;Bebida quente;Café expresso;3;7,28;21,84;Dinheiro;Delivery;3,5;5
+100614;22/02/2025;Boa Viagem;Doce;Cartola;1;19,04;19,04;Dinheiro;Balcão;9,1;3
+100711;03/05/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Pix;Balcão;7,1;
+100128;19/01/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Dinheiro;Delivery;5,0;4
+100774;02/01/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Crédito;App;5,3;4
+100869;07/02/2025;Boa Viagem;Doce;Bolo de rolo (fatia);4;17,92;71,68;Pix;Balcão;4,5;5
+100048;04/05/2025;Recife Antigo;Bebida gelada;Frappê;3;17,10;51,30;Pix;Balcão;7,2;4
+100749;02/06/2025;Recife Antigo;Bebida gelada;Suco de caju;1;10,45;10,45;Débito;Balcão;7,7;5
+101078;25/04/2025;Espinheiro;Bebida quente;Chá artesanal;3;9,00;27,00;Débito;App;7,8;4
+100087;25/03/2025;Espinheiro;Bebida quente;Chá artesanal;3;9,00;27,00;Débito;Balcão;3,7;
+100663;16/01/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Pix;Delivery;2,4;5
+100809;29/06/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Pix;App;10,5;3
+101114;28/06/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;6,8;4
+100458;23/05/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;5,5;5
+100449;22/04/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Dinheiro;Delivery;5,5;5
+100130;01/02/2025;Espinheiro;Bebida quente;Café expresso;4;6,50;26,00;Pix;Balcão;3,4;3
+100963;24/01/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Dinheiro;App;6,1;4
+100986;03/03/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Crédito;Balcão;10,1;4
+100270;11/01/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Crédito;Balcão;11,4;5
+100327;07/04/2025;Boa Viagem;Salgado;Tapioca;3;15,68;47,04;Crédito;Balcão;9,8;5
+100915;22/06/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Pix;Delivery;7,3;4
+100800;14/05/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Pix;App;5,6;5
+100948;08/06/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Dinheiro;Delivery;4,8;4
+101012;27/03/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Débito;Balcão;5,0;4
+100428;11/01/2025;Casa forte;Bebida quente;Latte;2;13,50;27,00;Crédito;Balcão;8,1;4
+100688;17/05/2025;Espinheiro;Doce;Cartola;2;17,00;34,00;Pix;Balcão;10,3;
+100741;21/01/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Pix;Delivery;5,3;5
+100155;03/05/2025;Recife Antigo;Salgado;Coxinha;2;9,03;18,06;Pix;Balcão;7,6;3
+101159;21/05/2025;Espinheiro;Bebida gelada;Água de coco;1;8,00;8,00;Crédito;Balcão;6,7;4
+101052;19/02/2025;Casa Forte;Bebida quente;Café expresso;3;6,50;19,50;Pix;Balcão;6,9;
+100566;18/05/2025;Boa Viagem;Bebida gelada;Frappê;4;20,16;80,64;Crédito;Balcão;5,0;5
+100415;13/02/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;Pix;App;7,8;5
+100030;16/05/2025;Recife Antigo;Doce;Cookie;1;8,07;8,07;Crédito;Delivery;6,9;5
+100586;02/02/2025;Recife Antigo;Bebida gelada;Cold brew;1;14,25;14,25;Débito;Delivery;4,3;4
+101119;10/06/2025;Recife Antigo;Salgado;Coxinha;1;9,03;9,03;Crédito;Balcão;12,2;3
+100447;21/04/2025;Recife Antigo;Salgado;Sanduíche natural;4;18,05;72,20;;Balcão;7,6;5
+100778;21/05/2025;Casa Forte;Doce;Cookie;1;8,50;8,50;Crédito;Balcão;6,2;3
+100194;28/01/2025;Casa Forte;Bebida gelada;Frappê;1;18,00;18,00;Pix;Balcão;7,0;5
+100670;25/01/2025;Espinheiro;Salgado;Tapioca;4;14,00;56,00;Crédito;Balcão;8,9;5
+101090;13/02/2025;Recife Antigo;Bebida quente;Café expresso;3;6,17;18,51;Pix;Balcão;6,6;5
+101075;28/02/2025;Espinheiro;Doce;Bolo de rolo (fatia);2;16,00;32,00;Pix;Balcão;4,5;4
+100914;28/06/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Crédito;App;3,1;4
+100179;17/05/2025;Boa Viagem;Bebida gelada;Água de coco;4;8,96;35,84;Pix;Delivery;10,0;3
+101179;08/02/2025;Boa Viagem;Doce;Brownie;1;14,00;14,00;Crédito;Delivery;6,4;3
+100423;10/01/2025;Recife Antigo;Salgado;Coxinha;4;9,03;36,12;Pix;Delivery;7,2;3
+101076;09/04/2025;Espinheiro;Salgado;Pão de queijo;1;7,00;7,00;Débito;Balcão;4,7;3
+100010;09/03/2025;Casa Forte;Bebida gelada;Frappê;1;18,00;18,00;Pix;Balcão;9,9;5
+100354;26/03/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Crédito;Delivery;4,8;4
+100067;24/02/2025;Espinheiro;Salgado;Coxinha;1;9,50;9,50;Dinheiro;Delivery;5,1;5
+100612;25/06/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;Pix;Balcão;3,7;4
+100209;02/04/2025;Casa Forte;Bebida gelada;Frappê;2;18,00;36,00;Pix;Balcão;2,4;4
+100145;18/02/2025;Casa Forte;Bebida gelada;Suco de caju;1;11,00;11,00;Débito;Balcão;6,6;5
+100437;02/04/2025;Boa Viagem;Bebida quente;Chá artesanal;3;10,08;30,24;Débito;Balcão;6,7;3
+100867;25/05/2025;Espinheiro;Doce;Cartola;2;17,00;34,00;Crédito;Balcão;4,8;4
+100983;27/03/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;Delivery;5,3;3
+101138;10/01/2025;Espinheiro;Doce;Cartola;1;17,00;17,00;Pix;Balcão;6,7;3
+100938;12/06/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Débito;Delivery;9,5;5
+100092;22/03/2025;Espinheiro;Bebida quente;Cappuccino;3;12,00;36,00;Dinheiro;Balcão;6,5;4
+100549;20/03/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;9,0;4
+100214;10/05/2025;Casa Forte;Doce;Brownie;1;12,50;12,50;Crédito;Balcão;11,8;3
+100359;19/04/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Dinheiro;Delivery;5,9;3
+100539;01/06/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Pix;Balcão;5,3;5
+100852;05/06/2025;Boa Viagem;Doce;Brownie;2;14,00;28,00;Pix;Delivery;3,2;4
+100195;02/02/2025;Boa Viagem;Bebida gelada;Suco de caju;3;12,32;36,96;Crédito;Delivery;2,7;4
+100296;27/06/2025;Espinheiro;Salgado;Pão de queijo;1;7,00;7,00;Crédito;Balcão;10,0;3
+101065;27/06/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Pix;Balcão;6,0;
+101132;18/01/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Crédito;Balcão;6,0;5
+100997;01/01/2025;Casa Forte;Bebida quente;Chá artesanal;3;9,00;27,00;Débito;Balcão;8,6;5
+101000;12/01/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Dinheiro;App;4,4;5
+100360;18/06/2025;Casa Forte;Bebida quente;Latte;4;13,50;54,00;Débito;Balcão;7,1;5
+100478;26/04/2025;Boa Viagem;Salgado;Tapioca;3;15,68;47,04;Crédito;Balcão;11,2;5
+100784;28/06/2025;Espinheiro;Bebida gelada;Água de coco;1;8,00;8,00;Pix;Balcão;6,6;5
+100637;10/05/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Débito;Delivery;7,0;5
+101110;28/01/2025;boa viagem;Doce;Bolo de rolo (fatia);3;17,92;53,76;Pix;Delivery;7,3;5
+100385;28/06/2025;Casa Forte;Bebida gelada;Água de coco;4;8,00;32,00;Pix;Balcão;5,8;4
+100188;16/05/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;App;7,2;
+100537;30/01/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Crédito;Balcão;4,5;4
+100086;11/05/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;Balcão;8,4;
+100034;27/03/2025;boa viagem;Bebida quente;Cappuccino;1;13,44;13,44;Pix;Balcão;8,0;5
+100199;26/02/2025;Recife Antigo;Doce;Brownie;1;11,88;11,88;Crédito;Delivery;6,4;4
+100529;26/02/2025;Boa Viagem;Bebida gelada;Frappê;3;20,16;60,48;Débito;Balcão;6,6;4
+100902;09/01/2025;Recife Antigo;Salgado;Coxinha;1;9,03;9,03;Crédito;Balcão;10,5;5
+101097;28/05/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Crédito;Balcão;9,6;5
+100347;15/02/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Pix;Delivery;6,1;5
+100591;23/03/2025;Boa Viagem;Doce;Brownie;4;14,00;56,00;Crédito;App;8,2;5
+100400;24/02/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Débito;Balcão;3,3;4
+100045;26/05/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Crédito;Balcão;6,8;5
+100477;21/04/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Pix;App;5,9;4
+101028;14/05/2025;Espinheiro;Doce;Bolo de rolo (fatia);1;16,00;16,00;Pix;Delivery;4,3;5
+100808;03/04/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Crédito;Delivery;9,0;
+100487;10/02/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Pix;Balcão;6,9;4
+101091;27/04/2025;Boa Viagem;Bebida gelada;Cold brew;3;16,80;50,40;Crédito;App;6,1;
+100626;24/05/2025;Casa forte;Salgado;Coxinha;1;9,50;9,50;Pix;Delivery;7,8;4
+100000;21/05/2025;Casa Forte;Bebida gelada;Frappê;3;18,00;54,00;Pix;Delivery;5,7;3
+100689;08/04/2025;Casa Forte;Bebida gelada;Cold brew;2;15,00;30,00;Pix;Delivery;6,9;5
+100548;17/05/2025;Boa Viagem ;Bebida quente;Latte;1;15,12;15,12;Pix;Balcão;4,8;4
+100421;07/01/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Pix;Balcão;8,6;5
+100505;25/05/2025;Recife Antigo;Bebida quente;Chá artesanal;4;8,55;34,20;Crédito;Balcão;4,7;4
+100723;23/06/2025;Boa Viagem;Doce;Cookie;3;9,52;28,56;Dinheiro;App;10,8;4
+100600;28/03/2025;Espinheiro;Doce;Brownie;3;12,50;37,50;Crédito;App;9,8;5
+100729;04/04/2025;Casa Forte;Bebida gelada;Água de coco;3;8,00;24,00;Crédito;Balcão;2,2;4
+100101;07/05/2025;Boa Viagem;Bebida quente;Latte;4;15,12;60,48;Pix;Balcão;8,4;4
+100445;10/05/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Pix;Delivery;6,9;4
+100039;02/05/2025;Casa Forte;Bebida gelada;Frappê;4;18,00;72,00;Crédito;Balcão;5,0;5
+100895;09/06/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Débito;Balcão;4,0;5
+100016;11/04/2025;Boa Viagem;Salgado;Tapioca;2;15,68;31,36;Débito;Balcão;4,2;3
+100747;20/03/2025;Casa forte;Salgado;Tapioca;1;14,00;14,00;Débito;Delivery;8,5;3
+100427;03/06/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;4,7;4
+100825;04/01/2025;Casa Forte;Salgado;Pão de queijo;;7,00;7,00;Crédito;Balcão;7,9;5
+100148;21/03/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Pix;Balcão;6,1;4
+100992;24/05/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Pix;App;7,2;3
+100177;29/06/2025;Casa forte;Bebida gelada;Cold brew;1;15,00;15,00;Crédito;Balcão;7,8;4
+100136;23/06/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Pix;Balcão;8,5;4
+100336;18/01/2025;Recife Antigo;Doce;Bolo de rolo (fatia);2;15,20;30,40;Pix;Delivery;6,7;
+100740;01/01/2025;Boa Viagem;Bebida quente;Cappuccino;3;13,44;40,32;Dinheiro;Balcão;5,2;4
+100118;20/03/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Crédito;Balcão;3,5;5
+101059;08/05/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Crédito;Balcão;7,6;4
+101074;04/06/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Crédito;Balcão;6,2;
+101134;27/06/2025;Boa Viagem;Bebida quente;Latte;4;15,12;60,48;Dinheiro;Delivery;4,0;5
+100675;13/03/2025;Casa Forte;Bebida gelada;Água de coco;1;8,00;8,00;Crédito;Balcão;7,5;5
+100064;26/04/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;;Balcão;7,7;5
+100712;28/05/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;7,9;5
+100620;21/05/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;App;7,6;4
+100112;25/02/2025;Espinheiro;Doce;Cookie;1;8,50;8,50;Crédito;Balcão;4,5;4
+100192;23/01/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;Dinheiro;Delivery;5,3;5
+100763;26/01/2025;Espinheiro;Bebida gelada;Água de coco;2;8,00;16,00;Crédito;Balcão;10,4;4
+100393;04/05/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Dinheiro;Balcão;7,2;4
+100664;03/03/2025;Boa Viagem;Bebida gelada;Suco de caju;2;12,32;24,64;Débito;Balcão;7,8;5
+100958;30/03/2025;Espinheiro;Bebida quente;Latte;4;13,50;54,00;Pix;Balcão;7,0;4
+100928;16/04/2025;Boa Viagem;Bebida quente;Café expresso;3;7,28;21,84;Débito;Balcão;7,5;
+100459;26/04/2025;Recife Antigo;Salgado;Pão de queijo;1;6,65;6,65;Crédito;Balcão;12,4;5
+100752;14/02/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Crédito;Balcão;5,4;3
+100041;31/05/2025;Casa Forte;Bebida quente;Chá artesanal;3;9,00;27,00;Débito;Delivery;;4
+100211;16/04/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Delivery;4,7;4
+100186;09/03/2025;Recife Antigo;Bebida gelada;Água de coco;2;7,60;15,20;Pix;Balcão;2,4;3
+100124;08/01/2025;Casa Forte;Bebida quente;Cappuccino;3;12,00;36,00;Crédito;Balcão;9,4;4
+100358;30/03/2025;Casa Forte;Salgado;Coxinha;2;9,50;19,00;Crédito;App;11,9;4
+100152;26/01/2025;Recife Antigo;Salgado;Tapioca;2;13,30;26,60;Débito;Delivery;6,6;4
+100297;25/05/2025;Casa Forte;Bebida gelada;Cold brew;2;15,00;30,00;Débito;App;2,8;3
+100471;28/03/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Pix;Delivery;9,2;5
+101063;24/04/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;Débito;Balcão;6,7;4
+100246;20/04/2025;boa viagem;Bebida gelada;Suco de caju;4;12,32;49,28;Crédito;Delivery;5,0;3
+100005;27/06/2025;boa viagem;Bebida quente;Café expresso;1;7,28;7,28;Pix;Balcão;5,1;4
+100979;03/02/2025;Boa Viagem;Bebida quente;Chá artesanal;4;10,08;40,32;Débito;Balcão;8,9;
+100046;12/03/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;6,9;4
+100301;25/01/2025;Boa Viagem;Bebida gelada;Água de coco;2;8,96;17,92;Crédito;Delivery;8,4;4
+100618;23/01/2025;Casa Forte;Bebida quente;Café expresso;;6,50;13,00;Pix;App;5,1;4
+100465;07/05/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;Pix;Balcão;8,4;3
+100410;01/05/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Pix;Balcão;6,0;4
+101027;08/03/2025;Boa Viagem;Bebida quente;Cappuccino;4;13,44;53,76;Débito;Delivery;6,1;4
+100901;16/02/2025;Recife Antigo;Bebida gelada;Água de coco;1;7,60;7,60;Pix;Balcão;9,2;4
+100509;21/01/2025;Recife Antigo;Bebida quente;Latte;3;12,82;38,46;Crédito;Balcão;7,7;4
+101073;19/06/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Pix;Balcão;9,5;4
+100669;15/03/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Pix;Balcão;6,9;5
+100843;15/03/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Balcão;10,3;4
+100721;20/03/2025;Boa Viagem;Salgado;Coxinha;1;10,64;10,64;Débito;Delivery;9,9;4
+100811;04/01/2025;Recife Antigo;Doce;Cookie;1;8,07;8,07;Crédito;Delivery;4,8;5
+100894;17/05/2025;Recife Antigo;Salgado;Tapioca;1;13,30;13,30;Crédito;Balcão;7,9;4
+100744;03/04/2025;Boa Viagem;Salgado;Pão de queijo;2;7,84;15,68;Dinheiro;Balcão;14,7;5
+100312;12/02/2025;Boa Viagem;Salgado;Sanduíche natural;2;21,28;42,56;Débito;Balcão;9,6;5
+100264;16/06/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Crédito;Balcão;4,8;3
+100387;22/06/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;Pix;Delivery;5,8;4
+100722;07/01/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Crédito;Delivery;6,5;3
+100170;22/02/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Crédito;Balcão;7,9;5
+100247;16/03/2025;Boa Viagem;Bebida quente;Café expresso;4;7,28;29,12;Débito;Balcão;4,7;5
+101037;16/03/2025;Boa Viagem;Salgado;Tapioca;1;15,68;15,68;Crédito;Balcão;10,2;5
+100229;19/01/2025;BOA VIAGEM;Doce;Bolo de rolo (fatia);2;17,92;35,84;Pix;Balcão;2,9;4
+100116;18/05/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;8,2;3
+100649;06/01/2025;Espinheiro;Salgado;Pão de queijo;4;7,00;28,00;Crédito;Balcão;11,5;5
+100570;03/03/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Pix;Balcão;8,9;5
+101184;01/02/2025;Recife Antigo;Bebida gelada;Cold brew;4;14,25;57,00;Débito;Balcão;2,4;3
+100420;29/04/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Crédito;Balcão;7,4;4
+100593;19/04/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Pix;Delivery;6,2;5
+100762;09/01/2025;Recife Antigo;Bebida gelada;Água de coco;2;7,60;15,20;Crédito;Balcão;3,5;4
+100805;26/01/2025;Casa Forte;Bebida gelada;Suco de caju;1;11,00;11,00;Crédito;Delivery;4,8;5
+100606;07/06/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Delivery;3,9;5
+100944;23/03/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Pix;Balcão;8,5;4
+100078;12/04/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Débito;App;4,0;5
+100109;13/06/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Pix;Balcão;7,7;3
+100457;24/03/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;4,4;5
+100777;30/01/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Crédito;Balcão;5,3;4
+100816;09/06/2025;Casa Forte;Bebida gelada;Água de coco;1;8,00;8,00;Débito;Delivery;8,9;4
+100111;06/02/2025;Recife Antigo;Bebida quente;Café expresso;3;6,17;18,51;Crédito;Balcão;3,7;4
+100931;09/03/2025;Recife Antigo;Bebida gelada;Cold brew;4;14,25;57,00;;Balcão;1,5;5
+100558;17/04/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Crédito;Balcão;10,2;5
+100583;14/03/2025;Espinheiro;Doce;Cookie;1;8,50;8,50;Pix;Balcão;7,9;4
+101129;29/06/2025;Boa Viagem ;Bebida gelada;Cold brew;1;16,80;16,80;Pix;Balcão;1,5;4
+100562;02/06/2025;Casa forte;Bebida quente;Chá artesanal;4;9,00;36,00;Pix;App;4,7;5
+100603;11/05/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Pix;Balcão;10,1;
+100991;17/05/2025;Recife Antigo;Salgado;Pão de queijo;2;6,65;13,30;Pix;Balcão;8,8;
+100102;18/02/2025;Espinheiro;Bebida gelada;Água de coco;4;8,00;32,00;Pix;Balcão;10,5;5
+100454;18/01/2025;Casa Forte;Bebida quente;Cappuccino;3;12,00;36,00;Débito;Balcão;5,0;5
+100959;06/04/2025;Espinheiro;Doce;Bolo de rolo (fatia);1;16,00;16,00;;Delivery;9,6;4
+100841;25/05/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Débito;App;8,2;5
+100981;29/05/2025;Boa Viagem;Bebida quente;Chá artesanal;3;10,08;30,24;Crédito;Balcão;5,0;4
+100845;11/06/2025;Espinheiro;Salgado;Sanduíche natural;2;19,00;38,00;Débito;Balcão;4,9;5
+100631;30/05/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Pix;Balcão;8,1;4
+100587;03/03/2025;Casa Forte;Salgado;Sanduíche natural;2;19,00;38,00;Débito;Delivery;10,2;4
+100679;08/03/2025;Espinheiro;Bebida gelada;Cold brew;2;15,00;30,00;Pix;Delivery;8,6;5
+100068;06/01/2025;Recife Antigo;Bebida gelada;Água de coco;3;7,60;22,80;Débito;Delivery;5,5;
+100708;21/03/2025;Espinheiro;Bebida quente;Café expresso;3;6,50;19,50;Pix;Delivery;3,5;3
+101142;31/05/2025;Espinheiro;Salgado;Coxinha;4;9,50;38,00;Crédito;Balcão;9,1;5
+100573;20/05/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;Balcão;6,1;4
+101160;07/01/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Débito;Delivery;6,9;4
+101080;14/02/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Crédito;Delivery;7,4;5
+100252;23/03/2025;Recife Antigo;Salgado;Coxinha;2;9,03;18,06;Débito;Delivery;4,1;5
+100972;22/01/2025;Recife Antigo;Bebida gelada;Frappê;4;17,10;68,40;Débito;Balcão;2,8;4
+100846;13/03/2025;Recife Antigo;Salgado;Sanduíche natural;3;18,05;54,15;Pix;App;8,0;3
+100134;18/04/2025;Casa Forte;Salgado;Coxinha;3;9,50;28,50;Dinheiro;Balcão;5,0;5
+100588;04/02/2025;Boa Viagem;Doce;Cookie;2;9,52;19,04;Pix;Balcão;2,1;5
+100866;07/06/2025;Espinheiro;Doce;Cookie;2;8,50;17,00;Dinheiro;Balcão;6,9;3
+100127;26/01/2025;Casa Forte;Bebida quente;Café expresso;;6,50;26,00;Pix;Balcão;3,8;
+101107;12/03/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Débito;App;10,2;3
+100781;16/06/2025;Boa Viagem;Salgado;Coxinha;;10,64;21,28;Crédito;Balcão;5,8;5
+100237;23/05/2025;Casa Forte;Doce;Bolo de rolo (fatia);1;16,00;16,00;Crédito;Delivery;7,1;3
+101101;02/03/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Crédito;App;1,8;5
+100750;16/02/2025;Casa Forte;Salgado;Pão de queijo;2;7,00;14,00;Débito;App;6,0;4
+100853;15/06/2025;Recife Antigo;Bebida gelada;Água de coco;1;7,60;7,60;Pix;Balcão;6,1;5
+100803;19/04/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Pix;Balcão;10,8;3
+100055;22/05/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Pix;Balcão;5,2;4
+100933;18/05/2025;Casa Forte;Doce;Cartola;2;17,00;34,00;Pix;Balcão;9,0;4
+100105;10/05/2025;BOA VIAGEM;Bebida quente;Chá artesanal;1;10,08;10,08;Pix;Balcão;5,5;3
+100163;07/01/2025;Recife Antigo;Salgado;Pão de queijo;1;6,65;6,65;Pix;Balcão;7,0;2
+100759;25/03/2025;Recife Antigo;Bebida gelada;Suco de caju;1;10,45;10,45;Pix;Delivery;8,1;3
+101174;02/04/2025;Boa Viagem;Bebida quente;Cappuccino;4;13,44;53,76;Pix;Balcão;5,3;5
+100602;14/06/2025;Boa Viagem;Bebida quente;Cappuccino;3;13,44;40,32;Débito;Delivery;2,3;5
+100794;06/01/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Débito;Balcão;7,4;4
+100977;14/03/2025;Boa Viagem;Doce;Cookie;4;9,52;38,08;Crédito;Balcão;3,5;5
+100718;29/04/2025;Casa Forte;Doce;Cookie;4;8,50;34,00;Pix;Delivery;9,4;4
+100518;04/01/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Débito;Delivery;9,0;4
+100639;07/06/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Débito;Balcão;9,4;5
+100913;28/06/2025;Recife Antigo;Bebida quente;Cappuccino;3;11,40;34,20;Débito;Balcão;7,0;5
+101152;18/01/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Pix;Balcão;12,2;5
+100543;29/06/2025;Espinheiro;Bebida gelada;Água de coco;2;8,00;16,00;Crédito;Balcão;5,4;4
+101045;01/03/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Pix;App;4,2;5
+100578;04/06/2025;Recife Antigo;Doce;Cookie;3;8,07;24,21;Pix;App;6,6;5
+100660;19/02/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Dinheiro;Delivery;3,2;4
+101127;05/05/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Crédito;Delivery;6,5;4
+100406;21/02/2025;Casa Forte;Salgado;Sanduíche natural;4;19,00;76,00;Pix;Delivery;6,7;3
+101054;21/02/2025;Espinheiro;Doce;Bolo de rolo (fatia);2;16,00;32,00;;Balcão;8,8;5
+101124;18/03/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Débito;Balcão;6,9;5
+100446;27/06/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Crédito;Balcão;7,1;3
+100479;16/03/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Pix;Delivery;4,8;
+100755;11/02/2025;Boa Viagem ;Bebida gelada;Suco de caju;3;12,32;36,96;;Delivery;6,1;5
+101070;08/06/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Pix;Delivery;7,9;5
+100261;30/05/2025;Boa Viagem;Salgado;Tapioca;1;15,68;15,68;Débito;App;9,7;
+100294;02/06/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Débito;Delivery;11,6;4
+100581;06/04/2025;Casa Forte;Doce;Brownie;2;12,50;25,00;Crédito;Delivery;4,4;
+101055;03/05/2025;Boa Viagem;Doce;Brownie;1;14,00;14,00;Crédito;App;7,7;4
+100613;28/06/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;5,1;4
+101198;22/02/2025;Espinheiro;Doce;Cookie;1;8,50;8,50;Crédito;Balcão;6,0;5
+100159;20/05/2025;Casa Forte;Doce;Cartola;1;17,00;17,00;Pix;Balcão;8,5;4
+100885;10/03/2025;Recife Antigo;Salgado;Coxinha;2;9,03;18,06;Pix;Delivery;9,2;4
+100333;06/06/2025;Boa Viagem;Bebida gelada;Frappê;2;20,16;40,32;Pix;App;2,3;5
+100279;04/06/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Dinheiro;Balcão;5,1;5
+101189;29/04/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Crédito;Balcão;5,8;3
+100533;27/04/2025;Boa Viagem;Bebida quente;Cappuccino;4;13,44;53,76;Pix;Balcão;9,1;5
+101032;03/04/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Pix;Balcão;3,9;4
+100014;22/03/2025;Boa Viagem;Bebida gelada;Água de coco;3;8,96;26,88;Débito;Balcão;8,0;5
+100838;17/03/2025;Boa Viagem ;Bebida quente;Chá artesanal;1;10,08;10,08;Crédito;Balcão;3,5;4
+100392;17/04/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Pix;Delivery;3,8;3
+100422;02/01/2025;Recife Antigo;Salgado;Sanduíche natural;4;18,05;72,20;Débito;Balcão;7,9;5
+101040;18/01/2025;Casa Forte;Doce;Brownie;1;12,50;12,50;Débito;Balcão;8,0;4
+101158;21/03/2025;Espinheiro;Bebida gelada;Suco de caju;1;11,00;11,00;;Delivery;8,6;3
+100929;14/05/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Dinheiro;Delivery;6,0;5
+100758;10/01/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Débito;Balcão;6,8;3
+100236;26/03/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Pix;Balcão;8,6;5
+100466;28/04/2025;Casa Forte;Salgado;Tapioca;3;14,00;42,00;Débito;Balcão;9,7;5
+100291;10/01/2025;Recife Antigo;Bebida gelada;Frappê;1;17,10;17,10;Pix;Balcão;4,3;3
+100233;19/04/2025;Casa Forte;Bebida quente;Café expresso;3;6,50;19,50;Crédito;Balcão;9,8;4
+100141;30/03/2025;Boa Viagem;Bebida gelada;Frappê;3;20,16;60,48;Crédito;Balcão;8,6;4
+100409;30/06/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Delivery;7,1;
+101191;13/03/2025;Boa Viagem;Bebida quente;Latte;3;15,12;45,36;Débito;Delivery;8,1;4
+100319;21/06/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Crédito;Delivery;7,7;4
+100921;03/06/2025;Recife Antigo;Bebida quente;Latte;3;12,82;38,46;Crédito;Balcão;1,7;
+100830;21/04/2025;Boa Viagem;Bebida quente;Café expresso;4;7,28;29,12;Pix;App;9,0;4
+100654;04/06/2025;Casa Forte;Salgado;Tapioca;2;14,00;28,00;Pix;Delivery;9,1;4
+100887;25/01/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Delivery;5,2;5
+101192;08/06/2025;Espinheiro;Bebida quente;Chá artesanal;3;9,00;27,00;Dinheiro;Balcão;6,1;5
+100059;21/01/2025;boa viagem;Bebida quente;Latte;2;15,12;30,24;Pix;App;9,1;4
+100930;23/02/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Débito;Delivery;8,2;4
+100619;08/01/2025;Boa Viagem;Doce;Brownie;1;14,00;14,00;Pix;Balcão;4,1;
+100461;26/01/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Balcão;4,5;2
+101061;21/04/2025;Espinheiro;Doce;Bolo de rolo (fatia);1;16,00;16,00;Dinheiro;Balcão;3,9;4
+100534;03/01/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Balcão;8,4;
+100989;24/05/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;;Balcão;5,9;5
+100646;01/01/2025;Recife Antigo;Doce;Bolo de rolo (fatia);1;15,20;15,20;Débito;Balcão;6,6;
+101068;05/01/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Crédito;Delivery;2,1;4
+100401;16/06/2025;Boa Viagem;Doce;Cookie;3;9,52;28,56;Crédito;App;7,0;5
+100822;23/02/2025;Boa Viagem;Salgado;Pão de queijo;2;7,84;15,68;Pix;Balcão;7,8;4
+100371;19/02/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Crédito;Balcão;7,1;4
+100399;22/03/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Dinheiro;Balcão;5,8;3
+100623;26/03/2025;Boa Viagem;Bebida gelada;Água de coco;2;8,96;17,92;Débito;Balcão;7,7;4
+100911;08/06/2025;Casa Forte;Bebida quente;Chá artesanal;3;9,00;27,00;Crédito;Balcão;9,7;5
+100820;10/01/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Crédito;App;6,2;5
+100037;28/03/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Crédito;Delivery;8,3;5
+100589;05/01/2025;Espinheiro;Bebida quente;Cappuccino;4;12,00;48,00;Crédito;Delivery;7,3;4
+100685;04/03/2025;Recife Antigo;Bebida quente;Latte;4;12,82;51,28;Débito;Delivery;7,3;5
+100106;23/03/2025;Recife Antigo;Bebida quente;Latte;4;12,82;51,28;Dinheiro;Balcão;3,9;4
+100322;01/03/2025;Boa Viagem;Bebida quente;Chá artesanal;4;10,08;40,32;Crédito;Balcão;7,8;5
+100351;01/02/2025;Casa Forte;Bebida gelada;Suco de caju;-1;11,00;11,00;Débito;Balcão;6,4;5
+100356;19/05/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Débito;Balcão;8,8;4
+100251;07/06/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Delivery;9,0;4
+100717;19/01/2025;Recife Antigo;Doce;Brownie;2;11,88;23,76;Débito;Balcão;4,9;4
+100390;26/04/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Pix;App;7,4;3
+100443;04/02/2025;Espinheiro;Salgado;Tapioca;;14,00;14,00;Crédito;Delivery;16,2;3
+100733;11/03/2025;Casa Forte;Salgado;Tapioca;2;14,00;28,00;Débito;Balcão;320,0;4
+100215;15/05/2025;BOA VIAGEM;Bebida quente;Café expresso;4;7,28;29,12;Crédito;Balcão;5,2;5
+100338;16/01/2025;Boa Viagem;Salgado;Coxinha;3;10,64;31,92;Débito;Balcão;10,4;3
+100056;24/03/2025;Recife Antigo;Salgado;Coxinha;1;9,03;9,03;Débito;Balcão;8,7;4
+100181;11/06/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Pix;Balcão;9,0;
+100053;01/05/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Débito;Delivery;;
+100668;23/02/2025;Boa Viagem;Salgado;Tapioca;2;15,68;31,36;Crédito;App;11,6;5
+101137;18/03/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Crédito;Delivery;8,5;3
+100346;21/06/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Crédito;Delivery;8,5;5
+100231;17/03/2025;Recife Antigo;Salgado;Pão de queijo;2;6,65;13,30;Débito;Balcão;5,0;5
+100151;12/06/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Débito;Balcão;6,3;4
+100500;14/05/2025;boa viagem;Bebida gelada;Água de coco;1;8,96;8,96;Débito;Balcão;6,7;5
+101038;22/03/2025;Boa Viagem;Doce;Cookie;4;9,52;38,08;Crédito;Balcão;6,5;3
+100230;26/01/2025;Espinheiro;Bebida gelada;Cold brew;4;15,00;60,00;Crédito;Balcão;8,4;4
+100524;22/01/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Crédito;Delivery;3,6;4
+100956;21/05/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Crédito;Balcão;6,0;5
+100990;23/04/2025;Boa Viagem;Bebida quente;Chá artesanal;4;10,08;40,32;Crédito;Delivery;7,6;3
+100995;21/03/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;6,8;3
+100257;19/01/2025;Boa Viagem;Doce;Brownie;3;14,00;42,00;Pix;Delivery;8,1;5
+100388;22/01/2025;Espinheiro;Bebida gelada;Suco de caju;1;11,00;11,00;Pix;Balcão;1,5;4
+100525;08/03/2025;Recife Antigo;Salgado;Coxinha;2;9,03;18,06;Pix;Balcão;9,1;3
+100185;01/05/2025;Boa Viagem;Salgado;Tapioca;4;15,68;62,72;Pix;Delivery;8,1;5
+100043;26/02/2025;Casa Forte;Salgado;Sanduíche natural;2;19,00;38,00;Crédito;Delivery;5,9;3
+100473;25/01/2025;Casa Forte;Salgado;Coxinha;1;9,50;9,50;Crédito;Delivery;8,9;3
+100871;05/01/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Crédito;Balcão;7,0;5
+100142;20/06/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Dinheiro;Balcão;7,0;5
+100922;22/04/2025;BOA VIAGEM;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Balcão;4,7;4
+101084;27/06/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Crédito;Balcão;6,1;5
+101116;26/01/2025;Recife Antigo;Salgado;Pão de queijo;4;6,65;26,60;Débito;Balcão;11,7;5
+100892;14/02/2025;Casa Forte;Doce;Cookie;2;8,50;17,00;Crédito;App;6,9;4
+100692;12/02/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Débito;Balcão;6,0;4
+100849;24/06/2025;Boa Viagem;Bebida quente;Chá artesanal;4;10,08;40,32;Pix;App;6,0;4
+100329;22/02/2025;Espinheiro;Bebida quente;Café expresso;2;6,50;13,00;Crédito;Delivery;10,7;5
+100512;11/01/2025;Casa Forte;Bebida gelada;Frappê;2;18,00;36,00;Crédito;Balcão;4,9;4
+100868;19/01/2025;Boa Viagem;Bebida quente;Café expresso;;7,28;7,28;Pix;Balcão;12,0;4
+100579;03/03/2025;Espinheiro;Bebida quente;Latte;3;13,50;40,50;Pix;App;1,8;4
+100796;04/01/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Crédito;Delivery;8,1;5
+100665;11/05/2025;Boa Viagem;Salgado;Coxinha;4;10,64;42,56;Pix;Balcão;8,7;5
+100975;20/04/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;Pix;Balcão;6,5;5
+101141;24/05/2025;boa viagem;Salgado;Tapioca;2;15,68;31,36;Pix;App;10,0;5
+101109;04/02/2025;Boa Viagem;Bebida gelada;Água de coco;2;8,96;17,92;Crédito;Balcão;8,3;4
+100903;29/03/2025;Boa Viagem;Salgado;Sanduíche natural;;21,28;85,12;Pix;App;4,9;3
+100943;16/03/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Pix;App;10,4;4
+100947;04/06/2025;Boa Viagem;Bebida gelada;Suco de caju;2;12,32;24,64;Pix;Balcão;6,2;3
+101095;16/03/2025;Recife Antigo;Bebida gelada;Suco de caju;1;10,45;10,45;Crédito;Balcão;9,1;4
+100643;12/02/2025;Boa Viagem;Doce;Brownie;1;14,00;14,00;Débito;Balcão;4,9;5
+101072;22/03/2025;Casa Forte;Salgado;Tapioca;3;14,00;42,00;Crédito;Delivery;12,3;4
+100283;15/02/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Balcão;7,7;4
+100645;05/06/2025;Espinheiro;Salgado;Sanduíche natural;4;19,00;76,00;Pix;Delivery;7,5;4
+100417;21/05/2025;Boa Viagem;Bebida gelada;Cold brew;3;16,80;50,40;Débito;Delivery;6,1;4
+101035;27/04/2025;Recife Antigo;Bebida quente;Cappuccino;3;11,40;34,20;Pix;Delivery;5,1;5
+100642;10/01/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Débito;App;6,6;
+100745;30/03/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Crédito;Balcão;6,7;4
+100114;02/02/2025;Casa Forte;Doce;Brownie;2;12,50;25,00;Débito;Balcão;5,1;4
+100818;23/04/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Pix;App;5,1;
+100289;19/01/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Débito;Balcão;4,6;
+100932;15/03/2025;Casa Forte;Doce;Cookie;1;8,50;8,50;Crédito;Balcão;6,5;5
+101102;25/05/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;10,8;4
+100271;01/02/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Crédito;Delivery;6,2;4
+100719;22/06/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Crédito;Delivery;9,7;3
+100313;08/03/2025;Recife Antigo;Salgado;Sanduíche natural;2;18,05;36,10;Crédito;Balcão;4,9;4
+100698;29/04/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Pix;Delivery;6,4;5
+100284;14/04/2025;Recife Antigo;Doce;Cookie;2;8,07;16,14;;App;6,6;4
+100129;17/04/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;Crédito;Balcão;5,8;4
+100395;24/03/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;Pix;Balcão;4,2;5
+101112;23/04/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Dinheiro;Balcão;5,9;4
+100326;26/05/2025;Recife Antigo;Salgado;Coxinha;3;9,03;27,09;Débito;Balcão;9,3;5
+100942;02/02/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;;Delivery;12,0;4
+101005;13/03/2025;Casa Forte;Bebida gelada;Água de coco;3;8,00;24,00;Pix;App;9,2;3
+100761;28/01/2025;Recife Antigo;Bebida quente;Latte;4;12,82;51,28;Crédito;Balcão;9,1;3
+100790;09/02/2025;Boa Viagem;Bebida gelada;Suco de caju;4;12,32;49,28;Pix;Delivery;6,2;3
+100040;21/03/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Dinheiro;Balcão;9,8;4
+100306;11/03/2025;Casa Forte;Bebida gelada;Água de coco;2;8,00;16,00;Crédito;Delivery;9,4;4
+101060;22/06/2025;Boa Viagem;Doce;Brownie;4;14,00;56,00;Crédito;Balcão;5,3;4
+100373;27/02/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Dinheiro;Balcão;2,7;5
+101066;14/03/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Pix;Balcão;4,8;3
+100495;10/04/2025;Casa Forte;Salgado;Tapioca;3;14,00;42,00;Pix;Balcão;8,0;5
+100272;11/01/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;8,5;5
+100008;24/01/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Pix;App;10,2;5
+100855;27/03/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Pix;Balcão;5,6;4
+100753;29/03/2025;Recife Antigo;Bebida quente;Cappuccino;2;11,40;22,80;;App;4,6;5
+100652;03/05/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;Débito;Balcão;9,0;4
+100960;08/04/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Crédito;Balcão;5,3;4
+100397;23/02/2025;BOA VIAGEM;Bebida quente;Latte;1;15,12;15,12;Pix;Balcão;4,2;3
+100414;05/01/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;App;4,4;4
+100863;13/04/2025;Boa Viagem ;Salgado;Pão de queijo;3;7,84;23,52;Crédito;Balcão;11,7;3
+100812;29/06/2025;Espinheiro;Doce;Cartola;1;17,00;17,00;Pix;Delivery;8,0;4
+100934;20/05/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Pix;App;9,0;4
+100504;05/04/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Dinheiro;Balcão;5,5;4
+100532;12/03/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Débito;Balcão;4,7;3
+100988;03/03/2025;Espinheiro;Doce;Brownie;4;12,50;50,00;Pix;Balcão;4,4;4
+100751;28/02/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Pix;App;8,0;5
+100878;20/04/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Dinheiro;Balcão;4,7;5
+100976;26/03/2025;Casa Forte;Bebida gelada;Água de coco;1;8,00;8,00;Dinheiro;Balcão;8,4;4
+100491;28/04/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Dinheiro;Delivery;10,4;5
+100079;23/05/2025;Boa Viagem;Doce;Bolo de rolo (fatia);4;17,92;71,68;Pix;App;7,8;3
+100806;06/05/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Pix;Balcão;5,7;5
+100342;25/05/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Pix;Delivery;3,1;
+100457;24/03/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;4,4;5
+100049;26/01/2025;Casa Forte;Bebida quente;Chá artesanal;3;9,00;27,00;Pix;Balcão;6,6;5
+100250;28/04/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Crédito;Balcão;8,3;4
+101015;02/02/2025;Casa Forte;Salgado;Coxinha;1;9,50;9,50;Pix;Balcão;9,9;4
+100020;18/05/2025;Casa Forte;Bebida gelada;Suco de caju;4;11,00;44,00;Crédito;Balcão;1,5;4
+100569;08/04/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Pix;Balcão;11,0;5
+100832;14/03/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Pix;Balcão;6,9;4
+100135;05/01/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Débito;Balcão;5,4;5
+100536;06/04/2025;Casa forte;Bebida gelada;Suco de caju;1;11,00;11,00;Dinheiro;Delivery;6,0;3
+100567;11/01/2025;Espinheiro;Doce;Bolo de rolo (fatia);4;16,00;64,00;Pix;Balcão;6,6;5
+100653;13/02/2025;Recife Antigo;Salgado;Coxinha;1;9,03;9,03;Crédito;Balcão;8,8;5
+100696;15/05/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Débito;Balcão;9,2;4
+101041;02/05/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;8,4;3
+100481;09/02/2025;Espinheiro;Bebida gelada;Frappê;4;18,00;72,00;Débito;Delivery;5,1;5
+100033;09/03/2025;Boa Viagem;Bebida quente;Cappuccino;4;13,44;53,76;Crédito;Balcão;7,8;3
+100923;09/04/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Crédito;Balcão;8,6;4
+100382;22/05/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Crédito;Balcão;8,7;2
+100025;05/02/2025;Recife Antigo;Salgado;Sanduíche natural;2;18,05;36,10;Pix;Balcão;7,8;3
+100047;22/02/2025;Boa Viagem;Bebida gelada;Água de coco;2;8,96;17,92;Crédito;Balcão;7,2;3
+101036;03/03/2025;Recife Antigo;Bebida gelada;Suco de caju;2;10,45;20,90;Dinheiro;Balcão;4,6;4
+100174;31/01/2025;Boa Viagem;Doce;Cartola;3;19,04;57,12;Crédito;Balcão;6,6;4
+100029;04/05/2025;Boa Viagem ;Doce;Bolo de rolo (fatia);1;17,92;17,92;Débito;App;3,2;5
+100571;02/06/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;Balcão;6,2;4
+100153;11/04/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Crédito;Delivery;4,1;3
+100756;01/03/2025;Casa Forte;Bebida quente;Chá artesanal;1;9,00;9,00;Dinheiro;Balcão;7,3;4
+100965;29/03/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Crédito;Balcão;3,5;5
+101132;18/01/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Crédito;Balcão;6,0;5
+100161;15/06/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Débito;Delivery;11,5;5
+100244;20/04/2025;Recife Antigo;Bebida quente;Cappuccino;2;11,40;22,80;Pix;App;6,8;4
+100510;13/01/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Pix;Balcão;4,1;5
+100158;12/05/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Pix;Balcão;7,8;4
+100530;05/05/2025;Boa Viagem;Salgado;Coxinha;1;10,64;10,64;Débito;Balcão;8,7;5
+100501;10/06/2025;Casa Forte;Bebida quente;Cappuccino;4;12,00;48,00;Pix;Balcão;4,3;5
+100432;07/05/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Débito;Balcão;8,7;3
+101115;13/01/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Dinheiro;Balcão;8,3;5
+101104;26/01/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Pix;Balcão;10,0;4
+100332;06/05/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Crédito;App;6,7;3
+100927;04/06/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;5,6;4
+100366;21/05/2025;Casa Forte;Salgado;Coxinha;1;9,50;9,50;Dinheiro;Delivery;6,1;5
+101133;12/05/2025;Recife Antigo;Doce;Bolo de rolo (fatia);2;15,20;30,40;;Balcão;5,9;5
+100054;09/05/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Crédito;Balcão;6,0;
+100584;15/06/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Dinheiro;Balcão;7,8;5
+100766;03/02/2025;Casa Forte;Salgado;Tapioca;4;14,00;56,00;Pix;Balcão;8,4;4
+100680;12/01/2025;Boa Viagem;Bebida quente;Latte;4;15,12;60,48;Pix;Balcão;3,3;4
+100909;23/02/2025;Espinheiro;Doce;Bolo de rolo (fatia);4;16,00;64,00;Crédito;Balcão;5,9;3
+100980;29/06/2025;Casa Forte;Doce;Cartola;1;17,00;17,00;Débito;Balcão;1,5;5
+100780;16/02/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Crédito;Delivery;7,3;5
+100024;22/05/2025;Boa Viagem;Doce;Bolo de rolo (fatia);1;17,92;17,92;;Delivery;7,5;5
+100298;22/05/2025;Boa Viagem;Doce;Brownie;1;14,00;14,00;Dinheiro;Balcão;3,6;5
+100556;22/02/2025;Recife Antigo;Bebida gelada;Água de coco;3;7,60;22,80;Crédito;Balcão;4,5;4
+100575;02/04/2025;Recife Antigo;Bebida gelada;Suco de caju;1;10,45;10,45;Débito;Balcão;6,5;4
+100018;31/05/2025;Boa Viagem;Bebida quente;Cappuccino;3;13,44;40,32;Crédito;Balcão;8,4;3
+101006;16/06/2025;Casa Forte;Bebida gelada;Suco de caju;1;11,00;11,00;Pix;Balcão;5,6;5
+100254;13/02/2025;Espinheiro;Salgado;Tapioca;3;14,00;42,00;Crédito;Balcão;9,6;3
+100225;17/06/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;Delivery;5,7;4
+100599;23/04/2025;Boa Viagem;Bebida quente;Chá artesanal;-1;10,08;10,08;Débito;Balcão;6,4;5
+100882;19/06/2025;Espinheiro;Bebida quente;Chá artesanal;3;9,00;27,00;Pix;Delivery;5,0;5
+100419;15/06/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Crédito;Balcão;240,0;4
+100859;05/04/2025;Recife Antigo;Doce;Bolo de rolo (fatia);1;15,20;15,20;Crédito;Delivery;5,7;4
+101043;01/05/2025;Boa Viagem;Doce;Cartola;1;19,04;19,04;Débito;Balcão;5,2;3
+100222;01/05/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Dinheiro;Balcão;7,0;
+100950;06/04/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Pix;App;8,3;4
+100424;20/04/2025;Recife Antigo;Salgado;Coxinha;1;9,03;9,03;Pix;Balcão;6,4;5
+100218;18/06/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Crédito;Balcão;9,9;5
+100307;26/04/2025;Espinheiro;Bebida gelada;Cold brew;1;15,00;15,00;Crédito;Balcão;6,0;5
+100804;24/01/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Pix;App;7,9;4
+101117;24/05/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Pix;Balcão;11,1;
+100171;04/04/2025;Espinheiro;Doce;Brownie;3;12,50;37,50;Crédito;Balcão;7,2;5
+100442;14/05/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Pix;Delivery;12,0;5
+100893;18/01/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;2,5;
+100705;12/04/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Crédito;App;2,7;4
+100770;14/02/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Pix;Balcão;7,1;4
+100286;10/01/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;7,3;5
+100066;12/04/2025;Recife Antigo;Salgado;Pão de queijo;3;6,65;19,95;Pix;Balcão;11,4;3
+100453;01/02/2025;Espinheiro;Bebida gelada;Suco de caju;1;11,00;11,00;Crédito;Delivery;5,5;3
+101181;22/01/2025;Casa Forte;Bebida quente;Café expresso;3;6,50;19,50;Dinheiro;Balcão;6,2;4
+100071;16/03/2025;Espinheiro;Doce;Bolo de rolo (fatia);-1;16,00;64,00;Crédito;Balcão;10,5;5
+100891;22/06/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Crédito;Balcão;4,6;5
+100412;17/01/2025;Boa Viagem;Salgado;Sanduíche natural;2;21,28;42,56;Dinheiro;Balcão;9,6;5
+100082;28/05/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Débito;Balcão;6,7;4
+100156;21/02/2025;Boa Viagem;Bebida quente;Chá artesanal;3;10,08;30,24;Débito;App;8,0;2
+101168;29/05/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Crédito;Balcão;5,5;4
+100015;11/02/2025;Espinheiro;Bebida quente;Latte;4;13,50;54,00;Dinheiro;Balcão;5,1;4
+100801;27/02/2025;Espinheiro;Doce;Cartola;4;17,00;68,00;Dinheiro;Delivery;2,9;5
+100265;31/01/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Débito;App;10,8;3
+100535;08/02/2025;Boa Viagem;Salgado;Coxinha;2;10,64;21,28;Pix;Balcão;13,5;3
+100831;11/04/2025;Boa Viagem;Doce;Brownie;1;14,00;14,00;Crédito;Balcão;6,5;4
+100451;10/06/2025;Espinheiro;Bebida quente;Cappuccino;3;12,00;36,00;Débito;Balcão;8,2;4
+100897;06/02/2025;Casa Forte;Doce;Brownie;2;12,50;25,00;;Balcão;9,4;5
+100827;11/02/2025;Casa Forte;Doce;Cookie;4;8,50;34,00;Crédito;Balcão;10,7;4
+100404;30/06/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;2,1;4
+101126;01/04/2025;Recife Antigo;Bebida quente;Cappuccino;2;11,40;22,80;Crédito;Balcão;4,1;5
+100490;08/05/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;Pix;Balcão;11,7;4
+101089;24/03/2025;boa viagem;Bebida gelada;Frappê;1;20,16;20,16;Pix;Balcão;7,8;5
+100541;12/04/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Pix;Delivery;4,6;4
+100693;01/03/2025;Casa Forte;Bebida quente;Café expresso;3;6,50;19,50;Pix;Balcão;7,8;3
+100739;17/03/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Dinheiro;Delivery;4,6;4
+100364;30/04/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Débito;Balcão;6,7;4
+100629;25/05/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Balcão;4,1;4
+100459;26/04/2025;Recife Antigo;Salgado;Pão de queijo;1;6,65;6,65;Crédito;Balcão;12,4;5
+100104;22/05/2025;Espinheiro;Salgado;Coxinha;3;9,50;28,50;Pix;Delivery;7,3;3
+100268;21/01/2025;Recife Antigo;Doce;Bolo de rolo (fatia);;15,20;60,80;Dinheiro;App;9,8;5
+100608;13/05/2025;Casa Forte;Bebida quente;Café expresso;4;6,50;26,00;Débito;App;5,4;4
+101131;04/04/2025;Boa Viagem;Doce;Bolo de rolo (fatia);2;17,92;35,84;Crédito;Balcão;7,6;3
+100973;15/06/2025;Espinheiro;Bebida quente;Cappuccino;;12,00;36,00;Débito;App;4,1;3
+101062;16/02/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Crédito;Delivery;9,5;
+100661;10/06/2025;Boa Viagem;Bebida quente;Latte;3;15,12;45,36;Crédito;Balcão;8,3;4
+100241;25/05/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Pix;Balcão;7,7;4
+100430;18/06/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Dinheiro;Balcão;5,2;5
+100814;24/01/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Crédito;Delivery;5,6;4
+100978;07/04/2025;Boa Viagem;Salgado;Tapioca;4;15,68;62,72;Crédito;Balcão;7,4;3
+100203;26/01/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Pix;Balcão;9,7;4
+101182;16/01/2025;Boa Viagem;Bebida quente;Chá artesanal;4;10,08;40,32;Pix;Delivery;6,2;4
+100595;20/02/2025;Casa Forte;Bebida quente;Chá artesanal;4;9,00;36,00;Crédito;Balcão;4,8;5
+100630;17/06/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Pix;Balcão;9,9;
+100096;07/03/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Crédito;Balcão;6,7;4
+100467;20/06/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Débito;Balcão;2,9;
+100883;26/03/2025;Recife Antigo;Bebida quente;Café expresso;4;6,17;24,68;Pix;Balcão;8,9;4
+100492;29/04/2025;Casa Forte;Bebida quente;Latte;3;13,50;40,50;Débito;Balcão;5,8;
+100166;31/05/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Balcão;9,0;
+101069;14/03/2025;Casa Forte;Doce;Cartola;4;17,00;68,00;;Balcão;5,5;5
+100701;28/02/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Pix;App;5,8;4
+100694;14/06/2025;Boa Viagem;Salgado;Coxinha;2;10,64;21,28;Pix;Balcão;10,9;4
+100009;23/03/2025;Recife Antigo;Bebida gelada;Água de coco;3;7,60;22,80;Dinheiro;Balcão;3,9;
+100604;24/06/2025;Boa Viagem;Doce;Cookie;2;9,52;19,04;Crédito;Balcão;7,2;5
+100315;01/03/2025;Boa Viagem;Salgado;Sanduíche natural;4;21,28;85,12;Crédito;Balcão;9,6;4
+100773;03/06/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Pix;Delivery;5,3;4
+100361;22/01/2025;boa viagem;Bebida quente;Café expresso;3;7,28;21,84;Pix;Balcão;4,5;4
+100138;23/05/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;11,4;4
+100823;01/05/2025;Boa Viagem;Doce;Brownie;2;14,00;28,00;Débito;Delivery;8,8;5
+100276;27/02/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Pix;App;9,0;3
+100384;09/03/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Débito;Delivery;6,9;5
+100568;08/03/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Pix;Balcão;6,7;4
+101098;06/06/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Pix;Balcão;8,6;5
+100772;18/04/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Débito;Delivery;7,0;4
+100088;30/01/2025;Espinheiro;Doce;Cartola;2;17,00;34,00;Crédito;Balcão;9,7;5
+100090;28/01/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Crédito;Balcão;5,8;3
+100765;02/01/2025;Boa Viagem;Bebida quente;Café expresso;4;7,28;29,12;Crédito;App;6,4;5
+100280;09/01/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;Pix;App;8,8;4
+100651;12/06/2025;Recife Antigo;Bebida quente;Café expresso;3;6,17;18,51;Débito;App;;5
+100460;14/04/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Débito;Balcão;6,0;3
+100961;21/03/2025;Recife Antigo;Bebida gelada;Suco de caju;3;10,45;31,35;Pix;Balcão;6,4;
+100799;09/05/2025;Boa Viagem;Bebida gelada;Frappê;2;20,16;40,32;Débito;Balcão;2,5;5
+100300;22/05/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Delivery;4,6;
+100874;11/05/2025;Boa Viagem;Bebida quente;Latte;4;15,12;60,48;;Balcão;6,3;5
+100202;01/04/2025;Recife Antigo;Doce;Cartola;4;16,15;64,60;Dinheiro;Balcão;4,4;4
+100402;22/05/2025;Recife Antigo;Bebida gelada;Cold brew;1;14,25;14,25;Crédito;Delivery;4,7;5
+100340;25/01/2025;Boa Viagem;Bebida quente;Cappuccino;4;13,44;53,76;Débito;App;7,3;4
+100365;17/03/2025;Espinheiro;Salgado;Coxinha;4;9,50;38,00;Crédito;App;6,3;5
+100023;11/06/2025;Boa Viagem;Bebida gelada;Água de coco;2;8,96;17,92;Pix;Balcão;8,1;
+100345;25/05/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Crédito;App;7,8;4
+100676;15/06/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Crédito;Balcão;7,6;5
+101183;02/02/2025;Casa forte;Bebida gelada;Cold brew;1;15,00;15,00;Pix;Delivery;8,1;4
+100334;25/01/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Débito;Balcão;3,6;5
+100310;29/03/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Dinheiro;Balcão;7,9;4
+101162;30/05/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Crédito;Balcão;8,5;3
+100640;15/05/2025;Recife Antigo;Salgado;Tapioca;1;13,30;13,30;Débito;Balcão;9,9;4
+100353;14/04/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Crédito;App;6,7;5
+100735;07/05/2025;boa viagem;Bebida quente;Cappuccino;1;13,44;13,44;Pix;App;8,5;4
+101194;08/06/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Crédito;App;5,8;5
+100240;31/05/2025;Boa Viagem;Bebida quente;Chá artesanal;4;10,08;40,32;Crédito;Balcão;12,0;4
+100666;27/05/2025;Recife Antigo;Bebida quente;Café expresso;4;6,17;24,68;Crédito;Balcão;4,6;4
+100318;23/02/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;6,6;4
+101047;22/05/2025;Espinheiro;Doce;Cartola;3;17,00;51,00;Dinheiro;Balcão;7,5;4
+100262;26/02/2025;Espinheiro;Doce;Cartola;1;17,00;17,00;Pix;App;6,1;5
+100098;22/01/2025;Casa Forte;Bebida quente;Café expresso;3;6,50;19,50;Pix;Balcão;8,0;4
+100167;27/05/2025;Casa Forte;Bebida quente;Chá artesanal;4;9,00;36,00;Pix;Balcão;8,7;4
+100496;20/03/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Crédito;Balcão;10,0;5
+100725;08/01/2025;Espinheiro;Bebida quente;Café expresso;2;6,50;13,00;Pix;Delivery;2,8;4
+100275;13/03/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Dinheiro;Balcão;4,6;5
+100089;01/04/2025;Casa Forte;Bebida gelada;Suco de caju;4;11,00;44,00;Crédito;Balcão;8,9;3
+100714;24/05/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Crédito;Balcão;4,7;3
+100515;01/02/2025;Casa Forte;Salgado;Tapioca;4;14,00;56,00;Pix;Balcão;7,7;5
+101172;16/02/2025;Boa Viagem;Bebida quente;Café expresso;4;7,28;29,12;Débito;Balcão;8,1;4
+100331;06/02/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Débito;Balcão;8,1;5
+100982;15/05/2025;Recife Antigo;Salgado;Tapioca;1;13,30;13,30;Crédito;App;5,3;4
+100433;01/06/2025;Boa Viagem;Bebida quente;Latte;3;15,12;45,36;Pix;Balcão;5,3;5
+101170;13/03/2025;Espinheiro;Bebida gelada;Água de coco;1;8,00;8,00;Crédito;Delivery;4,5;4
+101039;24/01/2025;Casa Forte;Bebida gelada;Suco de caju;4;11,00;44,00;Crédito;Balcão;7,6;2
+100486;28/03/2025;Boa Viagem;Doce;Cartola;;19,04;38,08;Pix;App;4,2;5
+100658;18/04/2025;Boa Viagem;Salgado;Coxinha;2;10,64;21,28;Débito;Balcão;8,4;5
+101004;25/04/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Dinheiro;Balcão;4,6;4
+100531;09/05/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Crédito;App;8,2;4
+100840;03/01/2025;Espinheiro;Bebida gelada;Água de coco;3;8,00;24,00;Pix;App;4,7;3
+101053;26/01/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Crédito;Delivery;8,0;4
+100260;27/01/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Débito;App;11,0;4
+100810;01/01/2025;Casa Forte;Bebida gelada;Suco de caju;2;11,00;22,00;Crédito;Balcão;8,0;5
+100305;25/03/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;8,6;
+100876;13/03/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Dinheiro;Delivery;4,1;5
+101139;03/05/2025;Recife Antigo;Doce;Bolo de rolo (fatia);3;15,20;45,60;Dinheiro;Balcão;2,8;5
+100702;29/01/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Crédito;Delivery;7,0;4
+100771;13/04/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Delivery;6,7;3
+101153;28/01/2025;Recife Antigo;Doce;Cartola;1;16,15;16,15;Pix;Delivery;3,5;4
+100196;19/04/2025;Recife Antigo;Bebida quente;Café expresso;4;6,17;24,68;Débito;Balcão;10,7;5
+100140;30/03/2025;Boa Viagem;Bebida gelada;Suco de caju;;12,32;12,32;Crédito;Delivery;6,3;4
+100594;02/01/2025;Boa Viagem;Bebida quente;Café expresso;3;7,28;21,84;Pix;Balcão;7,6;5
+100122;16/01/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Pix;App;6,4;4
+100494;24/05/2025;Boa Viagem;Doce;Cookie;4;9,52;38,08;Débito;Balcão;10,1;5
+100821;19/04/2025;boa viagem;Salgado;Pão de queijo;2;7,84;15,68;Dinheiro;App;8,1;5
+100110;24/03/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Dinheiro;Balcão;9,3;3
+100084;05/01/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Pix;App;5,3;5
+100962;25/01/2025;Casa Forte;Bebida quente;Café expresso;3;6,50;19,50;Débito;App;;4
+100513;21/02/2025;Recife Antigo;Bebida gelada;Cold brew;1;14,25;14,25;Crédito;Balcão;8,2;4
+100691;12/06/2025;Casa Forte;Bebida quente;Chá artesanal;4;9,00;36,00;Pix;Balcão;4,4;4
+100482;17/04/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Crédito;App;4,9;4
+101144;17/03/2025;Espinheiro;Salgado;Sanduíche natural;3;19,00;57,00;Crédito;Balcão;9,2;4
+100985;16/06/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Pix;Balcão;6,2;3
+100611;29/04/2025;Espinheiro;Doce;Cookie;1;8,50;8,50;Pix;Balcão;8,7;
+100793;15/01/2025;Casa Forte;Bebida gelada;Frappê;1;18,00;18,00;Crédito;Delivery;8,9;4
+100074;11/01/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Crédito;Balcão;5,1;5
+101197;29/04/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Pix;Balcão;6,7;5
+101042;29/04/2025;BOA VIAGEM;Bebida quente;Café expresso;4;7,28;29,12;Pix;Balcão;9,1;4
+100926;30/01/2025;Espinheiro;Bebida gelada;Frappê;1;18,00;18,00;Pix;App;7,5;5
+100273;18/04/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Crédito;Balcão;4,0;4
+100791;16/03/2025;Casa Forte;Salgado;Sanduíche natural;;19,00;19,00;Crédito;Balcão;10,6;3
+100396;30/05/2025;Casa Forte;Doce;Brownie;4;12,50;50,00;Crédito;App;7,9;5
+100154;20/01/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Débito;App;4,5;4
+100109;13/06/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Pix;Balcão;7,7;3
+100191;13/02/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Dinheiro;Balcão;5,0;5
+100797;31/01/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;6,5;4
+101171;14/05/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;;Delivery;10,0;4
+100187;18/01/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Crédito;Balcão;7,3;4
+100050;06/02/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Dinheiro;Delivery;9,4;4
+100038;10/02/2025;Espinheiro;Bebida quente;Latte;4;13,50;54,00;Pix;Balcão;2,9;4
+100418;06/02/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;5,3;5
+101147;25/05/2025;Espinheiro;Bebida gelada;Cold brew;1;15,00;15,00;Pix;App;8,5;5
+100208;23/01/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Débito;Balcão;6,1;5
+100375;27/01/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Crédito;Delivery;6,1;3
+100463;24/02/2025;Recife Antigo;Bebida gelada;Suco de caju;1;10,45;10,45;Dinheiro;Balcão;7,3;5
+100470;15/03/2025;Espinheiro;Bebida quente;Chá artesanal;2;9,00;18,00;Débito;Balcão;2,8;5
+100517;15/05/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;7,2;4
+100075;21/02/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Pix;App;3,0;3
+100910;19/05/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Débito;App;3,3;5
+100248;09/03/2025;Casa Forte;Bebida quente;Latte;3;13,50;40,50;Débito;App;7,2;5
+100559;31/03/2025;Boa Viagem;Bebida quente;Cappuccino;3;13,44;40,32;Crédito;Delivery;4,8;5
+100302;07/04/2025;Recife Antigo;Bebida gelada;Suco de caju;1;10,45;10,45;Pix;App;7,3;4
+100582;19/01/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Débito;Balcão;5,0;4
+100899;05/04/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Pix;Balcão;7,9;5
+101049;15/02/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Crédito;Balcão;6,0;5
+100335;22/04/2025;Espinheiro;Bebida gelada;Suco de caju;2;11,00;22,00;Dinheiro;Balcão;8,5;5
+100737;24/02/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Pix;Delivery;6,3;5
+100798;12/05/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Crédito;App;4,7;
+100011;17/06/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Crédito;Balcão;5,6;3
+100694;14/06/2025;Boa Viagem;Salgado;Coxinha;2;10,64;21,28;Pix;Balcão;10,9;4
+100750;16/02/2025;Casa Forte;Salgado;Pão de queijo;2;7,00;14,00;Débito;App;6,0;4
+100485;17/03/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Crédito;Balcão;4,9;4
+100462;21/06/2025;Espinheiro;Salgado;Sanduíche natural;2;19,00;38,00;Pix;Balcão;5,8;3
+100538;31/01/2025;Boa Viagem;Bebida quente;Cappuccino;3;13,44;40,32;Pix;Delivery;3,9;
+100627;16/01/2025;Boa Viagem;Bebida gelada;Cold brew;3;16,80;50,40;Pix;Balcão;4,3;4
+100281;02/02/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Pix;Balcão;9,2;5
+100253;15/02/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Pix;Balcão;;4
+100707;23/05/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;5,1;4
+100034;27/03/2025;boa viagem;Bebida quente;Cappuccino;1;13,44;13,44;Pix;Balcão;8,0;5
+101031;11/05/2025;Espinheiro;Bebida gelada;Cold brew;4;15,00;60,00;;Delivery;3,1;5
+100223;22/06/2025;Recife Antigo;Doce;Brownie;1;11,88;11,88;Débito;Delivery;8,1;4
+100577;17/04/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Débito;Balcão;6,7;5
+100672;30/06/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Pix;Balcão;7,0;4
+100813;17/04/2025;Espinheiro;Bebida gelada;Frappê;2;18,00;36,00;Pix;Balcão;6,4;5
+100219;14/03/2025;Boa Viagem;Salgado;Coxinha;1;10,64;10,64;Pix;Delivery;7,5;3
+101196;09/02/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Pix;Delivery;7,9;3
+100425;25/05/2025;Espinheiro;Bebida gelada;Suco de caju;3;11,00;33,00;Crédito;Balcão;7,7;4
+100369;13/06/2025;Espinheiro;Salgado;Coxinha;1;9,50;9,50;Pix;Balcão;7,3;4
+100998;29/06/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Dinheiro;Balcão;6,9;5
+100069;21/03/2025;Boa Viagem;Bebida gelada;Suco de caju;2;12,32;24,64;Pix;Balcão;5,0;
+100128;19/01/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Dinheiro;Delivery;5,0;4
+100580;01/04/2025;Boa Viagem;Bebida quente;Café expresso;3;7,28;21,84;Pix;Balcão;2,3;3
+100021;06/03/2025;Boa Viagem;Salgado;Pão de queijo;3;7,84;23,52;Pix;Balcão;;4
+100077;01/05/2025;Boa Viagem;Doce;Brownie;2;14,00;28,00;Débito;Delivery;7,0;5
+100547;15/01/2025;Casa Forte;Bebida quente;Latte;3;13,50;40,50;Crédito;Balcão;7,1;3
+100669;15/03/2025;Boa Viagem;Doce;Cookie;1;9,52;9,52;Pix;Balcão;6,9;5
+100748;22/05/2025;Recife Antigo;Bebida quente;Chá artesanal;3;8,55;25,65;Débito;App;5,7;5
+100405;08/06/2025;Espinheiro;Bebida gelada;Frappê;2;18,00;36,00;Débito;Delivery;7,6;4
+101077;30/03/2025;Espinheiro;Bebida quente;Latte;4;13,50;54,00;Débito;Balcão;10,2;3
+100826;19/04/2025;Boa Viagem;Salgado;Coxinha;1;10,64;10,64;Pix;App;8,3;5
+100125;31/03/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Crédito;Balcão;8,7;4
+100228;26/04/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Débito;Balcão;;4
+100757;18/06/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Débito;App;4,4;5
+100042;07/05/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;Crédito;Delivery;7,4;4
+100516;27/02/2025;Boa Viagem;Salgado;Tapioca;1;15,68;15,68;Pix;Balcão;7,0;
+100889;04/05/2025;Recife Antigo;Bebida quente;Cappuccino;2;11,40;22,80;Crédito;Balcão;4,4;4
+100936;20/06/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Balcão;8,1;4
+100908;15/02/2025;Recife Antigo;Salgado;Pão de queijo;2;6,65;13,30;Pix;App;7,0;4
+100572;29/03/2025;Boa Viagem;Bebida quente;Chá artesanal;3;10,08;30,24;Pix;App;6,1;4
+100576;14/06/2025;Espinheiro;Bebida gelada;Água de coco;1;8,00;8,00;Crédito;Balcão;5,2;5
+101092;22/02/2025;Boa Viagem;Bebida gelada;Água de coco;3;8,96;26,88;Débito;Balcão;9,6;4
+100621;30/03/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Crédito;App;3,0;4
+100767;06/01/2025;Casa Forte;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;8,5;5
+100743;01/01/2025;Casa Forte;Bebida gelada;Frappê;1;18,00;18,00;Crédito;App;6,2;4
+100374;29/01/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Crédito;Balcão;9,4;4
+100205;11/02/2025;Espinheiro;Salgado;Tapioca;2;14,00;28,00;Pix;App;9,2;5
+100316;10/03/2025;Casa Forte;Bebida quente;Chá artesanal;4;9,00;36,00;Débito;App;4,7;4
+100399;22/03/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Dinheiro;Balcão;5,8;3
+100966;22/06/2025;Casa Forte;Doce;Cartola;1;17,00;17,00;Débito;Balcão;4,4;4
+100006;18/05/2025;Casa Forte;Bebida quente;Latte;1;13,50;13,50;Crédito;Balcão;5,4;
+101103;01/06/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Dinheiro;Balcão;5,0;5
+100802;11/06/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;10,4;5
+100786;28/05/2025;Recife Antigo;Salgado;Sanduíche natural;1;18,05;18,05;Pix;App;6,3;4
+100844;18/01/2025;Casa Forte;Salgado;Pão de queijo;3;7,00;21,00;Débito;Balcão;14,3;5
+100493;27/02/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Pix;Delivery;1,5;4
+100919;11/04/2025;Casa Forte;Doce;Brownie;1;12,50;12,50;Pix;App;8,6;4
+101029;15/03/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Pix;Delivery;4,4;3
+101022;29/06/2025;Casa Forte;Bebida gelada;Suco de caju;3;11,00;33,00;Débito;App;6,6;5
+101048;06/06/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Pix;Balcão;8,0;4
+100259;19/04/2025;boa viagem;Bebida quente;Cappuccino;1;13,44;13,44;Crédito;App;6,4;5
+100282;13/02/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Pix;Balcão;4,7;3
+100634;10/01/2025;Boa Viagem;Salgado;Tapioca;1;15,68;15,68;Crédito;App;6,5;4
+100474;20/02/2025;Espinheiro;Doce;Cookie;1;8,50;8,50;Pix;Balcão;5,6;
+100455;02/02/2025;Boa Viagem ;Bebida quente;Chá artesanal;2;10,08;20,16;Dinheiro;Balcão;6,5;4
+100320;15/06/2025;Boa Viagem;Doce;Cookie;3;9,52;28,56;Dinheiro;App;7,0;5
+100434;08/01/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Dinheiro;Balcão;7,7;
+101178;09/02/2025;Casa Forte;Doce;Bolo de rolo (fatia);4;16,00;64,00;Pix;Balcão;6,1;3
+100299;27/04/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Dinheiro;Balcão;5,4;5
+100436;23/01/2025;Espinheiro;Salgado;Coxinha;4;9,50;38,00;Débito;Balcão;6,6;4
+101113;19/06/2025;Casa Forte;Bebida quente;Latte;4;13,50;54,00;Pix;Balcão;8,0;3
+100438;16/05/2025;Espinheiro;Bebida quente;Café expresso;4;6,50;26,00;Dinheiro;Balcão;4,9;5
+100325;29/04/2025;Boa Viagem;Bebida gelada;Frappê;2;20,16;40,32;Débito;Balcão;2,1;4
+100403;20/01/2025;Recife Antigo;Bebida quente;Café expresso;3;6,17;18,51;Débito;Balcão;6,4;4
+100564;28/04/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Pix;Balcão;6,6;
+100292;17/06/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Crédito;Balcão;4,9;4
+100278;08/06/2025;Boa Viagem;Doce;Bolo de rolo (fatia);4;17,92;71,68;Débito;Balcão;9,2;4
+100655;05/03/2025;Boa Viagem;Salgado;Coxinha;3;10,64;31,92;Débito;Balcão;10,9;4
+100732;21/01/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Dinheiro;Balcão;6,8;5
+100553;14/06/2025;Recife Antigo;Bebida gelada;Cold brew;2;14,25;28,50;Débito;Delivery;9,0;4
+100094;24/02/2025;Recife Antigo;Doce;Bolo de rolo (fatia);2;15,20;30,40;Débito;Delivery;8,2;5
+101154;07/04/2025;Boa Viagem;Salgado;Tapioca;2;15,68;31,36;Crédito;Balcão;11,1;4
+100245;07/06/2025;Boa Viagem;Bebida gelada;Frappê;2;20,16;40,32;Pix;Balcão;4,1;3
+100945;14/02/2025;Recife Antigo;Bebida gelada;Água de coco;2;7,60;15,20;Débito;Balcão;8,5;5
+100775;04/06/2025;Casa Forte;Bebida gelada;Água de coco;4;8,00;32,00;Crédito;Delivery;4,1;4
+100426;13/02/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Pix;Delivery;9,3;5
+100149;04/01/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Pix;Delivery;7,8;5
+100226;05/01/2025;Casa Forte;Salgado;Coxinha;1;9,50;9,50;Dinheiro;Delivery;12,8;4
+100865;14/06/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Pix;Balcão;3,2;4
+100967;30/01/2025;Recife Antigo;Salgado;Pão de queijo;2;6,65;13,30;Débito;App;10,0;5
+100900;26/03/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Dinheiro;Balcão;9,3;4
+100699;23/02/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;Pix;Delivery;4,8;5
+100601;18/05/2025;Espinheiro;Bebida gelada;Frappê;3;18,00;54,00;Débito;Balcão;4,2;5
+101058;09/04/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;;Balcão;9,6;5
+100217;23/01/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Pix;App;5,1;5
+100817;07/04/2025;Recife Antigo;Bebida gelada;Suco de caju;4;10,45;41,80;Crédito;Balcão;4,0;5
+100220;24/02/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Débito;Balcão;3,7;3
+100213;26/05/2025;Casa Forte;Doce;Cartola;2;17,00;34,00;Pix;Balcão;4,4;4
+101135;27/02/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Crédito;Balcão;9,4;3
+100907;20/01/2025;Casa Forte;Bebida quente;Latte;4;13,50;54,00;Crédito;Balcão;12,7;4
+100394;03/01/2025;boa viagem;Bebida quente;Latte;1;15,12;15,12;Pix;Balcão;4,3;4
+100367;03/05/2025;Recife Antigo;Bebida quente;Cappuccino;2;11,40;22,80;Dinheiro;App;6,4;4
+100924;31/01/2025;Casa Forte;Bebida gelada;Cold brew;1;15,00;15,00;Pix;Balcão;7,3;5
+100012;27/04/2025;Casa forte;Bebida quente;Cappuccino;2;12,00;24,00;Crédito;Balcão;7,2;4
+101128;29/04/2025;Boa Viagem;Bebida gelada;Cold brew;4;16,80;67,20;Crédito;Balcão;5,8;
+100234;19/06/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Delivery;6,4;4
+100695;06/04/2025;BOA VIAGEM;Bebida gelada;Cold brew;2;16,80;33,60;Pix;App;5,1;5
+101146;17/05/2025;Casa Forte;Salgado;Sanduíche natural;4;19,00;76,00;Pix;App;8,7;5
+101081;15/06/2025;Recife Antigo;Doce;Cartola;3;16,15;48,45;Crédito;App;3,6;4
+100063;19/05/2025;boa viagem;Bebida quente;Cappuccino;2;13,44;26,88;Débito;Balcão;6,0;4
+100734;12/01/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;Pix;App;9,2;5
+101023;06/04/2025;Espinheiro;Salgado;Coxinha;4;9,50;38,00;Pix;Delivery;6,5;4
+100964;22/06/2025;Recife Antigo;Doce;Cartola;2;16,15;32,30;Crédito;App;4,5;5
+100607;21/01/2025;Espinheiro;Bebida quente;Chá artesanal;1;9,00;9,00;Crédito;Balcão;4,7;4
+100013;30/05/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Pix;Balcão;8,7;4
+100839;04/04/2025;Boa Viagem;Salgado;Tapioca;2;15,68;31,36;Pix;Balcão;9,4;5
+100435;06/02/2025;Recife Antigo;Bebida quente;Latte;3;12,82;38,46;Crédito;Delivery;7,6;5
+100017;12/01/2025;Casa Forte;Bebida quente;Latte;3;13,50;40,50;Débito;Balcão;10,9;5
+100764;16/06/2025;Recife Antigo;Doce;Brownie;3;11,88;35,64;Débito;Balcão;6,2;5
+100348;18/04/2025;Recife Antigo;Bebida quente;Chá artesanal;1;8,55;8,55;Pix;Balcão;8,1;5
+100207;03/05/2025;Casa Forte;Doce;Bolo de rolo (fatia);1;16,00;16,00;Pix;Balcão;5,3;5
+100341;23/06/2025;Boa Viagem;Bebida quente;Café expresso;2;7,28;14,56;Dinheiro;Balcão;6,6;4
+100344;23/05/2025;Boa Viagem;Bebida gelada;Cold brew;3;16,80;50,40;Crédito;Delivery;;5
+101094;17/04/2025;Boa Viagem;Doce;Bolo de rolo (fatia);3;17,92;53,76;Dinheiro;Balcão;9,1;4
+101122;31/05/2025;Casa Forte;Bebida gelada;Frappê;4;18,00;72,00;Crédito;Balcão;8,1;3
+100551;28/01/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Dinheiro;Balcão;5,1;4
+100598;28/06/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Crédito;Delivery;7,6;4
+100032;01/03/2025;Boa Viagem;Bebida quente;Latte;3;15,12;45,36;Dinheiro;Balcão;9,8;
+100372;08/03/2025;Boa Viagem;Salgado;Tapioca;3;15,68;47,04;Crédito;Delivery;8,0;4
+100657;23/02/2025;Boa Viagem;Salgado;Coxinha;1;10,64;10,64;Débito;Balcão;12,2;5
+100172;16/02/2025;Recife Antigo;Salgado;Tapioca;4;13,30;53,20;Crédito;Balcão;14,6;5
+101086;19/05/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Crédito;Delivery;7,7;3
+100408;19/01/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Crédito;Balcão;3,5;
+101050;02/05/2025;Boa Viagem;Doce;Brownie;2;14,00;28,00;Débito;Balcão;4,9;4
+101165;06/06/2025;Espinheiro;Salgado;Coxinha;2;9,50;19,00;Crédito;Balcão;7,8;3
+100200;21/05/2025;Boa Viagem;Bebida gelada;Água de coco;1;8,96;8,96;Pix;Delivery;6,3;4
+100860;15/05/2025;Recife Antigo;Bebida gelada;Suco de caju;2;10,45;20,90;Crédito;Balcão;7,2;5
+101140;06/03/2025;Espinheiro;Bebida quente;Chá artesanal;3;9,00;27,00;Débito;App;5,6;4
+101123;02/02/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Débito;Balcão;8,8;4
+101150;26/01/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Crédito;App;5,2;4
+100489;13/04/2025;BOA VIAGEM;Bebida quente;Latte;4;15,12;60,48;;App;7,1;3
+101148;30/03/2025;Recife Antigo;Doce;Brownie;2;11,88;23,76;Crédito;Balcão;7,6;5
+100212;06/02/2025;Casa Forte;Doce;Brownie;1;12,50;12,50;Dinheiro;App;9,2;4
+100133;04/03/2025;Casa Forte;Bebida gelada;Água de coco;1;8,00;8,00;Débito;Delivery;7,9;4
+100060;02/05/2025;Recife Antigo;Bebida quente;Café expresso;1;6,17;6,17;Pix;Delivery;8,6;
+100690;21/02/2025;Boa Viagem;Bebida gelada;Cold brew;3;16,80;50,40;Crédito;App;7,5;4
+100026;26/03/2025;Recife Antigo;Bebida quente;Café expresso;2;6,17;12,34;Dinheiro;Balcão;5,9;5
+100100;14/06/2025;Boa Viagem;Bebida gelada;Cold brew;2;16,80;33,60;Pix;Balcão;8,8;5
+100974;28/02/2025;Casa Forte;Bebida quente;Chá artesanal;2;9,00;18,00;Crédito;App;4,8;5
+100776;23/04/2025;Boa Viagem;Salgado;Tapioca;1;15,68;15,68;Débito;Delivery;13,9;5
+100788;25/05/2025;Espinheiro;Bebida gelada;Água de coco;2;8,00;16,00;Pix;Delivery;155,0;4
+100520;05/06/2025;Boa Viagem;Salgado;Tapioca;2;15,68;31,36;Pix;Balcão;5,2;5
+100363;17/01/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Dinheiro;Balcão;7,7;3
+100309;26/01/2025;Boa Viagem;Doce;Cookie;2;9,52;19,04;Pix;App;13,3;5
+100795;04/03/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Pix;Balcão;8,2;4
+100828;08/06/2025;Espinheiro;Doce;Cartola;1;17,00;17,00;Pix;Balcão;11,4;5
+100544;26/01/2025;Recife Antigo;Bebida quente;Chá artesanal;2;8,55;17,10;Pix;Balcão;6,7;3
+100939;19/01/2025;Boa Viagem;Bebida quente;Chá artesanal;2;10,08;20,16;Pix;Delivery;7,2;3
+100441;29/01/2025;Casa forte;Bebida quente;Café expresso;1;6,50;6,50;Pix;Balcão;5,7;4
+100647;04/04/2025;Espinheiro;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;9,2;5
+101003;28/01/2025;Boa Viagem;Salgado;Sanduíche natural;4;21,28;85,12;Dinheiro;Delivery;10,4;
+100476;19/03/2025;Boa Viagem;Salgado;Pão de queijo;1;7,84;7,84;Pix;Delivery;7,3;4
+101046;05/02/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Crédito;App;5,4;4
+100062;13/04/2025;Casa Forte;Doce;Bolo de rolo (fatia);1;16,00;16,00;Débito;Delivery;9,0;
+100483;27/02/2025;Casa Forte;Salgado;Sanduíche natural;4;19,00;76,00;Crédito;App;7,9;3
+101026;21/06/2025;Recife Antigo;Bebida quente;Cappuccino;2;11,40;22,80;Pix;Delivery;3,5;4
+100052;23/05/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;7,2;5
+100242;12/02/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Pix;App;8,1;4
+100035;04/02/2025;Casa Forte;Salgado;Tapioca;1;14,00;14,00;Crédito;Delivery;5,6;5
+100738;13/03/2025;Espinheiro;Salgado;Sanduíche natural;1;19,00;19,00;Débito;Balcão;7,8;5
+100120;16/04/2025;Recife Antigo;Doce;Cookie;1;8,07;8,07;Crédito;Balcão;7,1;3
+101173;17/05/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Dinheiro;Balcão;6,4;4
+101019;23/03/2025;Espinheiro;Bebida gelada;Cold brew;3;15,00;45,00;Pix;Delivery;6,1;5
+100044;31/05/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;;Delivery;6,1;5
+100836;18/05/2025;Espinheiro;Salgado;Pão de queijo;3;7,00;21,00;Pix;Balcão;10,5;5
+100076;23/02/2025;Espinheiro;Doce;Brownie;1;12,50;12,50;Débito;Balcão;11,7;3
+100368;02/03/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Pix;Balcão;7,8;4
+100906;31/03/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Pix;Delivery;8,5;4
+100267;28/01/2025;Espinheiro;Salgado;Tapioca;3;14,00;42,00;Pix;Balcão;7,6;5
+100728;24/03/2025;BOA VIAGEM;Salgado;Coxinha;2;10,64;21,28;Pix;Balcão;9,7;4
+100444;19/02/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Débito;Delivery;8,5;5
+100503;02/04/2025;Boa Viagem;Bebida quente;Café expresso;1;7,28;7,28;Crédito;Balcão;3,1;4
+101057;06/02/2025;Boa Viagem;Doce;Bolo de rolo (fatia);1;17,92;17,92;Pix;Balcão;6,3;4
+101033;14/06/2025;Casa Forte;Bebida quente;Café expresso;1;6,50;6,50;Débito;Balcão;9,0;4
+100285;17/03/2025;Boa Viagem;Bebida quente;Latte;1;15,12;15,12;;Delivery;10,8;4
+100295;13/06/2025;boa viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Balcão;8,7;4
+100625;16/03/2025;BOA VIAGEM;Doce;Brownie;4;14,00;56,00;Crédito;Balcão;7,1;3
+100277;02/04/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Pix;Balcão;5,4;4
+101166;30/05/2025;Casa Forte;Bebida quente;Cappuccino;2;12,00;24,00;Pix;Delivery;10,1;5
+100484;07/01/2025;Recife Antigo;Bebida quente;Latte;;12,82;12,82;Débito;App;8,1;3
+100182;05/04/2025;Recife Antigo;Bebida gelada;Água de coco;1;7,60;7,60;Pix;Balcão;4,3;
+100970;15/02/2025;Recife Antigo;Bebida gelada;Cold brew;;14,25;28,50;Crédito;Balcão;6,0;4
+101193;27/06/2025;Casa Forte;Bebida quente;Chá artesanal;1;9,00;9,00;Crédito;Delivery;6,7;5
+100684;26/04/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Débito;Delivery;9,0;5
+100668;23/02/2025;Boa Viagem;Salgado;Tapioca;2;15,68;31,36;Crédito;App;11,6;5
+100036;24/01/2025;Casa Forte;Bebida quente;Cappuccino;1;12,00;12,00;Dinheiro;Balcão;6,6;4
+100002;05/06/2025;Boa Viagem;Bebida gelada;Cold brew;1;16,80;16,80;Crédito;Balcão;7,9;4
+100754;04/05/2025;Boa Viagem;Bebida gelada;Água de coco;2;8,96;17,92;Pix;Delivery;7,9;
+100508;31/03/2025;Boa Viagem;Salgado;Coxinha;-1;10,64;10,64;Dinheiro;App;11,9;
+100497;24/04/2025;Casa Forte;Bebida quente;Chá artesanal;1;9,00;9,00;Pix;Balcão;9,9;4
+100308;18/02/2025;Casa Forte;Doce;Cookie;1;8,50;8,50;Pix;App;6,4;4
+100141;30/03/2025;Boa Viagem;Bebida gelada;Frappê;3;20,16;60,48;Crédito;Balcão;8,6;4
+100864;19/01/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Dinheiro;Balcão;7,3;5
+100183;27/02/2025;Espinheiro;Salgado;Coxinha;1;9,50;9,50;Dinheiro;Balcão;9,6;5
+101185;30/05/2025;Boa Viagem;Doce;Cartola;4;19,04;76,16;Crédito;Balcão;2,4;4
+101010;30/04/2025;Recife Antigo;Bebida quente;Cappuccino;1;11,40;11,40;Pix;Balcão;;5
+100912;13/06/2025;Boa Viagem;Salgado;Sanduíche natural;1;21,28;21,28;Pix;Balcão;11,6;4
+100848;27/01/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Débito;Balcão;5,8;3
+100511;02/06/2025;Espinheiro;Bebida gelada;Cold brew;1;15,00;15,00;Crédito;Balcão;3,7;3
+100731;10/01/2025;Recife Antigo;Salgado;Coxinha;2;9,03;18,06;;Delivery;8,0;4
+100996;26/04/2025;Casa Forte;Doce;Cartola;2;17,00;34,00;Pix;Balcão;4,8;5
+100887;25/01/2025;Boa Viagem;Bebida quente;Latte;2;15,12;30,24;Pix;Delivery;5,2;5
+100117;11/05/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Débito;Balcão;6,6;4
+101025;24/02/2025;Recife Antigo;Salgado;Pão de queijo;1;6,65;6,65;Pix;Balcão;6,2;
+100113;15/04/2025;Casa Forte;Salgado;Pão de queijo;1;7,00;7,00;Débito;Balcão;9,5;
+100545;23/03/2025;Recife Antigo;Salgado;Pão de queijo;1;6,65;6,65;Pix;Balcão;9,4;3
+100165;09/03/2025;Recife Antigo;Bebida quente;Cappuccino;2;11,40;22,80;Crédito;App;7,3;4
+100184;20/05/2025;Recife Antigo;Doce;Cookie;2;8,07;16,14;Pix;Balcão;8,3;5
+100274;04/05/2025;Recife Antigo;Bebida quente;Latte;1;12,82;12,82;Débito;Delivery;11,9;4
+101001;24/03/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Pix;Balcão;5,8;4
+100704;21/02/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Pix;Balcão;4,6;4
+101024;30/04/2025;Espinheiro;Salgado;Pão de queijo;2;7,00;14,00;Pix;Delivery;6,8;3
+100383;29/03/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Pix;Balcão;5,8;4
+100561;14/02/2025;Boa Viagem;Bebida gelada;Suco de caju;1;12,32;12,32;Pix;Balcão;8,7;
+100862;23/05/2025;Boa Viagem;Salgado;Sanduíche natural;4;21,28;85,12;Débito;Balcão;7,8;
+101044;04/01/2025;Espinheiro;Bebida gelada;Frappê;2;18,00;36,00;Débito;Delivery;7,0;4
+100176;21/03/2025;Espinheiro;Bebida gelada;Suco de caju;3;11,00;33,00;Pix;App;2,8;5
+100379;13/05/2025;Espinheiro;Bebida gelada;Cold brew;1;15,00;15,00;Pix;Balcão;10,5;3
+101195;04/02/2025;Casa Forte;Doce;Bolo de rolo (fatia);2;16,00;32,00;Pix;Delivery;4,4;
+101016;03/05/2025;Recife Antigo;Bebida quente;Latte;2;12,82;25,64;Crédito;Delivery;2,7;
+100519;31/05/2025;Recife Antigo;Bebida gelada;Suco de caju;2;10,45;20,90;Pix;Balcão;6,3;4
+100830;21/04/2025;Boa Viagem;Bebida quente;Café expresso;4;7,28;29,12;Pix;App;9,0;4
+100507;01/06/2025;Casa Forte;Bebida quente;Café expresso;2;6,50;13,00;Pix;Balcão;4,4;3
+101176;26/03/2025;Casa Forte;Salgado;Coxinha;1;9,50;9,50;Dinheiro;Delivery;5,6;3
+100413;12/06/2025;Espinheiro;Doce;Brownie;2;12,50;25,00;Débito;Balcão;5,8;4
+100622;28/06/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Débito;Delivery;180,0;4
+100872;27/06/2025;Espinheiro;Bebida gelada;Cold brew;1;15,00;15,00;Crédito;App;7,2;4
+100858;10/03/2025;Casa Forte;Salgado;Tapioca;2;14,00;28,00;Débito;Balcão;10,0;5
+100641;25/05/2025;Espinheiro;Bebida quente;Cappuccino;1;12,00;12,00;Dinheiro;Delivery;4,2;4
+100258;12/01/2025;Boa Viagem;Bebida quente;Cappuccino;1;13,44;13,44;Débito;Balcão;1,8;3
+100834;12/05/2025;Espinheiro;Bebida quente;Latte;1;13,50;13,50;Débito;Balcão;4,2;3
+100662;03/02/2025;Espinheiro;Bebida quente;Cappuccino;2;12,00;24,00;Crédito;Delivery;9,0;3
+100337;12/05/2025;Boa Viagem;Bebida gelada;Frappê;1;20,16;20,16;Débito;Balcão;6,4;5
+100398;24/03/2025;Casa Forte;Salgado;Sanduíche natural;1;19,00;19,00;Pix;Balcão;4,1;4
+100605;22/05/2025;Espinheiro;Bebida quente;Café expresso;1;6,50;6,50;Pix;Delivery;9,0;4
+100480;16/03/2025;Casa Forte;Bebida quente;Latte;2;13,50;27,00;Débito;Delivery;8,2;5
+101143;30/05/2025;Espinheiro;Bebida gelada;Água de coco;1;8,00;8,00;Débito;Delivery;9,5;
+100917;26/01/2025;Espinheiro;Salgado;Tapioca;3;14,00;42,00;Crédito;Balcão;7,6;5
+101017;03/06/2025;Boa Viagem;Doce;Brownie;2;14,00;28,00;Crédito;Balcão;11,3;5
+100875;10/06/2025;Boa Viagem;Bebida quente;Cappuccino;2;13,44;26,88;Débito;Balcão;6,9;5
+100659;14/03/2025;Boa Viagem;Bebida quente;Chá artesanal;1;10,08;10,08;Crédito;Balcão;7,4;4
+101021;17/05/2025;Casa Forte;Bebida gelada;Cold brew;2;15,00;30,00;Crédito;Balcão;7,7;4
+100789;19/04/2025;Recife Antigo;Bebida gelada;Água de coco;1;7,60;7,60;Débito;Delivery;7,3;5
+100256;29/05/2025;Espinheiro;Bebida quente;Cappuccino;3;12,00;36,00;Pix;Balcão;9,3;4
+100968;11/04/2025;Boa Viagem;Bebida quente;Latte;3;15,12;45,36;Pix;Delivery;6,5;5
+100952;14/02/2025;Recife Antigo;Salgado;Coxinha;4;9,03;36,12;Crédito;Balcão;11,5;4
